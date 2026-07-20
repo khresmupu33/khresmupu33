@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Khresna Mulia Putra (Khresmupu)
+
 
 <div align="center">
 
@@ -11,7 +11,27 @@
 </div>
 
 ---
+<div align="center">
 
+<!-- Banner Samping Kiri dan Kanan dengan Tabel -->
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" width="25%" style="border: none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=&animation=fadeIn" width="100%"/>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
+      <p align="center">
+        <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
+      </p>
+    </td>
+    <td align="center" width="25%" style="border: none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=&animation=fadeIn" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 📖 Tentang Saya
 
