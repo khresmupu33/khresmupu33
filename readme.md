@@ -56,14 +56,12 @@ Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk
 
 | Keahlian | Tingkat Penguasaan | Status Visual |
 | :--- | :---: | :--- |
-| **HTML / CSS / JavaScript** | **75%** | ![75%](https://progress-bar.xyz/75/?scale=100&title=Advanced&color=informational) |
-| **PHP** | **50%** | ![50%](https://progress-bar.xyz/50/?scale=100&title=Intermediate&color=blue) |
-| **SQL Database** | **50%** | ![50%](https://progress-bar.xyz/50/?scale=100&title=Intermediate&color=blue) |
-| **Responsive Web Design** | **85%** | ![85%](https://progress-bar.xyz/85/?scale=100&title=Proficient&color=success) |
+| **Web Frontend & Responsive Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
 | **UI / UX Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
+| **Backend (PHP) & SQL Database** | **50%** | ![50%](https://progress-bar.xyz/50/?scale=100&title=Intermediate&color=blue) |
 | **Blender 3D & 3D Web** | **75%** | ![75%](https://progress-bar.xyz/75/?scale=100&title=Advanced&color=purple) |
 | **Music Production** | **65%** | ![65%](https://progress-bar.xyz/65/?scale=100&title=Creative&color=orange) |
-| **Problem Solving** | **70%** | ![70%](https://progress-bar.xyz/70/?scale=100&title=Analytical&color=yellow) |
+| **Problem Solving & Logical Thinking** | **70%** | ![70%](https://progress-bar.xyz/70/?scale=100&title=Analytical&color=yellow) |
 
 ---
 
