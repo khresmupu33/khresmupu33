@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <!-- Efek Filter Matrix Hijau & Kontras Tinggi -->
+    <filter id="matrix-hologram">
+      <feColorMatrix type="matrix" values="
+        0.3  0.6  0.1  0   0
+        0.3  0.8  0.2  0   0
+        0.1  0.4  0.1  0   0
+        0    0    0    1   0" />
+      <feComponentTransfer>
+        <feFuncG type="linear" slope="1.5" />
+      </feComponentTransfer>
+    </filter>
+
+    <!-- Pola Garis Scanlines Hologram -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(0, 255, 100, 0.3)" stroke-width="2" />
+    </pattern>
+
+    <!-- Clip Path Lingkaran -->
+    <clipPath id="circle-clip">
+      <circle cx="300" cy="250" r="180" />
+    </clipPath>
+  </defs>
+
+  <!-- Latar Belakang Hitam Hologram -->
+  <rect width="100%" height="100%" fill="#000000" rx="15" />
+
+  <!-- Gambar Utama dengan Filter Hologram Hijau -->
+  <image href="2572032_Khresna.jpg" x="120" y="70" width="360" height="360" preserveAspectRatio="xMidYMid slice" clip-path="url(#circle-clip)" filter="url(#matrix-hologram)" />
+
+  <!-- Lingkaran Neon Hijau Luar -->
+  <circle cx="300" cy="250" r="180" fill="none" stroke="#10B981" stroke-width="6" opacity="0.9" />
+
+  <!-- Lapisan Efek Garis Scanlines -->
+  <rect x="120" y="70" width="360" height="360" clip-path="url(#circle-clip)" fill="url(#scanlines)" pointer-events="none" />
+
+  <!-- Teks Status Terminal di dalam SVG -->
+  <text x="300" y="490" font-family="monospace" font-size="20" fill="#10B981" text-anchor="middle" font-weight="bold">[SYSTEM_STATUS: HOLOGRAM_MATRIX_ACTIVE]</text>
+  <text x="300" y="525" font-family="monospace" font-size="14" fill="#10B981" text-anchor="middle">&gt; Target: Khresna Mulia Putra (Creative Developer)</text>
+  <text x="300" y="550" font-family="monospace" font-size="14" fill="#10B981" text-anchor="middle">&gt; Visual Mode: Green Matrix Point-Cloud Hologram</text>
+</svg>
