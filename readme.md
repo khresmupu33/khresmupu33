@@ -6,11 +6,27 @@
   <span style="color: #00FF66;">✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</span>
 </p>
 
+<p align="center">
+  <a href="https://portofolio-khresmupu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Kunjungi_Website_Portofolio-000000?style=for-the-badge&color=000000&logoColor=00FF66&labelColor=000000" alt="Website Portofolio" style="border: 1px solid #00FF66; border-radius: 5px;" />
+  </a>
+</p>
+
 </div>
 
 ---
 
 <div style="background-color: #000000; color: #00FF66; padding: 20px; border-radius: 10px;">
+
+## <span style="color: #00FF66;">🌐 Live Preview Website Portofolio</span>
+
+<span style="color: #00FF66;">Berikut adalah pratinjau langsung dari website portofolio interaktif saya. Anda dapat melihat dan mengujinya secara langsung di bawah ini:</span>
+
+<p align="center">
+  <iframe src="https://portofolio-khresmupu.netlify.app/" width="100%" height="500px" style="border: 2px solid #00FF66; border-radius: 10px; background-color: #000000;"></iframe>
+</p>
+
+---
 
 ## <span style="color: #00FF66;">📖 Tentang Saya</span>
 
