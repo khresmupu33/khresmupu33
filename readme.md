@@ -1,22 +1,10 @@
 <div align="center">
 
-<!-- Banner Samping Kiri dan Kanan dengan Tabel -->
-<table width="100%" style="border: none; background: transparent;">
-  <tr>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=&animation=fadeIn" width="100%"/>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
-      <p align="center">
-        <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
-      </p>
-    </td>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=&animation=fadeIn" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
+
+<p align="center">
+  <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
+</p>
 
 </div>
 
@@ -142,9 +130,13 @@ Sistem pencatatan dan pengelolaan keuangan berbasis database yang dirancang khus
   ],
   "current_status": "Open for collaborations, research projects, and creative web development initiatives!"
 }
+```
+
+---
 
 <div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=100&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=20&fontColor=10B981&fontAlignY=50" width="100%"/>
 </div>
+
