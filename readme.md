@@ -12,21 +12,6 @@
 
 ---
 
-## 🌐 3D Interactive Web Experience & Vision
-
-> **"Teknologi 3D di Web bukan sekadar estetika, melainkan jembatan kognitif untuk memahami konsep kompleks secara visual."**
-
-Sebagai seorang **Creative Developer**, saya berfokus pada penggabungan teknologi web modern (HTML5, JavaScript, Tailwind) dengan aset 3D interaktif berbasis web (seperti Three.js / Blender GLTF pipeline) untuk menciptakan media edukasi masa depan yang imersif dan hidup.
-
-```mermaid
-graph TD
-    A[Blender 3D Modeling] -->|Export GLTF/GLB| B[Interactive Web Canvas]
-    C[Web Frontend: HTML/CSS/JS] --> B
-    D[Educational Content] --> B
-    B --> E[Immersive Learning Experience for Users]
-```
-
----
 
 ## 📖 Tentang Saya
 
@@ -153,11 +138,8 @@ Sistem pencatatan dan pengelolaan keuangan berbasis database yang dirancang khus
 
 ---
 
-## 📊 Statistik & Aktivitas GitHub
-
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,10B981,05966&height=100&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=100&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=20&fontColor=10B981&fontAlignY=50" width="100%"/>
 </div>
