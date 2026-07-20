@@ -11,7 +11,7 @@
 </div>
 
    <div align="center" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 10px;">
-  <img src="https://github.com/khresmupu33/Portfolio-Khresmupu.git/index.html" width="100%" alt="Khresmupu Hologram 3D" />
+  <img src="hologram.svg" width="100%" alt="Khresmupu Hologram 3D" />
 </div>  
 
 ---
