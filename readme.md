@@ -1,27 +1,21 @@
-<!-- 
-  CARA PENGGUNAAN:
-  1. Salin kode di bawah ini ke dalam file README.md profil Anda.
-  2. Pastikan Anda menggunakan mode gelap (Dark Mode) di GitHub agar warna background menyatu.
--->
-
-<!-- 1. Header Bagian Atas (Sesuai Permintaan Anda) -->
+<!-- Header Bagian Atas -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- 2. Bagian Utama dengan Bingkai Kiri dan Kanan -->
-<!-- Kita menggunakan tabel untuk membuat layout 3 kolom: Kiri, Konten, Kanan -->
+<!-- Layout Utama dengan Animasi Gelombang Vertikal di Sisi Kiri & Kanan -->
 <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Kolom Bingkai Kiri (Gambar vertikal tipis warna background header) -->
-    <td width="15" valign="top" bgcolor="#0D1117" style="background-color: #0D1117;">
-      <img src="https://raw.githubusercontent.com/vespa-engine/placeholder-images/master/pixel_0D1117.png" width="15" height="1200" style="display: block;">
+    <!-- Sisi Kiri: Animasi Gelombang Diputar 90 Derajat -->
+    <td width="30" valign="middle" align="center" style="overflow: hidden; padding: 0;">
+      <div style="width: 600px; transform: rotate(-90deg); transform-origin: center;">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=30&section=header&text=&animation=fadeIn" width="100%"/>
+      </div>
     </td>
 
-    <!-- Kolom Konten Utama -->
-    <td valign="top" style="padding: 0 20px;">
+    <!-- Kolom Konten Tengah (Seluruh Profil Anda) -->
+    <td valign="top" style="padding: 20px 25px;">
 
-      <!-- Mulai konten markdown Anda di sini -->
       <p align="center">
         <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
       </p>
@@ -70,7 +64,7 @@
       <br>
 
       | Keahlian | Tingkat Penguasaan | Status Visual |
-      | :--- | :--- | :--- |
+      | :--- | :---: | :--- |
       | **Web Frontend & Responsive Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
       | **UI / UX Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
       | **Backend (PHP) & SQL Database** | **50%** | ![50%](https://progress-bar.xyz/50/?scale=100&title=Intermediate&color=blue) |
@@ -151,15 +145,17 @@
 
     </td>
 
-    <!-- Kolom Bingkai Kanan (Gambar vertikal tipis warna background footer) -->
-    <td width="15" valign="top" bgcolor="#0D1117" style="background-color: #0D1117;">
-      <img src="https://raw.githubusercontent.com/vespa-engine/placeholder-images/master/pixel_0D1117.png" width="15" height="1200" style="display: block;">
+    <!-- Sisi Kanan: Animasi Gelombang Diputar 90 Derajat (Arah Berlawanan) -->
+    <td width="30" valign="middle" align="center" style="overflow: hidden; padding: 0;">
+      <div style="width: 600px; transform: rotate(90deg); transform-origin: center;">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=30&section=header&text=&animation=fadeIn" width="100%"/>
+      </div>
     </td>
 
   </tr>
 </table>
 
-<!-- 3. Footer Bagian Bawah (Sesuai Permintaan Anda) -->
+<!-- Footer Bagian Bawah -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=120&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=22&fontColor=10B981&fontAlignY=50&animation=fadeIn" width="100%"/>
 </div>
