@@ -1,23 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520">
   <defs>
-    <!-- Efek Filter Matrix Hijau -->
+    <!-- Filter Matrix Hijau -->
     <filter id="matrix-hologram">
       <feColorMatrix type="matrix" values="
-        0.3  0.6  0.1  0   0
-        0.3  0.8  0.2  0   0
-        0.1  0.4  0.1  0   0
+        0.2  0.7  0.1  0   0
+        0.2  0.9  0.1  0   0
+        0.1  0.5  0.1  0   0
         0    0    0    1   0" />
-      <feComponentTransfer>
-        <feFuncG type="linear" slope="1.6" />
-      </feComponentTransfer>
     </filter>
 
-    <!-- Pola Garis Scanlines Hologram -->
-    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(0, 255, 100, 0.3)" stroke-width="2" />
-    </pattern>
-
-    <!-- Masker Lingkaran Sempurna -->
+    <!-- Masker Lingkaran -->
     <clipPath id="circle-mask">
       <circle cx="300" cy="180" r="130" />
     </clipPath>
@@ -27,19 +19,14 @@
   <rect width="100%" height="100%" fill="#000000" rx="12" />
   <rect x="5" y="5" width="590" height="510" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="6 6" rx="10" opacity="0.6" />
 
-  <!-- Grup yang dibungkus Masker Lingkaran Hologram -->
+  <!-- Foto Utama di dalam Lingkaran -->
   <g clip-path="url(#circle-mask)">
-    <!-- Latar belakang dalam lingkaran -->
-    <rect x="170" y="50" width="260" height="260" fill="#001105" />
-    
-    <!-- FOTO UTAMA: Ukuran dan posisi diatur pas agar tidak zoom berlebihan -->
-    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="180" y="60" width="240" height="240" filter="url(#matrix-hologram)" preserveAspectRatio="none" />
-
-    <!-- Efek Garis Scanlines di atas foto -->
-    <rect x="170" y="50" width="260" height="260" fill="url(#scanlines)" pointer-events="none" />
+    <rect x="170" y="50" width="260" height="260" fill="#000000" />
+    <!-- Ganti URL di bawah dengan link URL bersih dari browser jika gambar belum muncul -->
+    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="150" y="30" width="300" height="300" filter="url(#matrix-hologram)" preserveAspectRatio="xMidYMid slice" />
   </g>
 
-  <!-- Bingkai Lingkaran Neon Hijau Luar -->
+  <!-- Bingkai Lingkaran Neon Hijau -->
   <circle cx="300" cy="180" r="130" fill="none" stroke="#10B981" stroke-width="4" opacity="0.95" />
 
   <!-- Teks Status Terminal Hologram -->
