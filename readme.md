@@ -22,7 +22,7 @@
               </p>
               
               <!-- FOTO DENGAN FILTER HIJAU (Ganti URL di bawah dengan URL gambar online Anda) -->
-              <img src="LINK_FOTO_ANDA_DISINI" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
+              <img src="2572032_khresna.jpg" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
               
               <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 10px;">
                 > Target: Khresna Mulia Putra (Creative Developer)<br>
