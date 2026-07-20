@@ -10,24 +10,19 @@
 
 </div>
 
----
-<div align="center">
-  <table width="100%" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 15px;">
-    <tr>
-      <td align="center">
-        <p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 10px;">
-          <code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
-        </p>
-        
-        <img src="2572032_Khresna.jpg" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram" />
-        
-        <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 10px;">
-          &gt; Target: Khresna Mulia Putra (Creative Developer)<br>
-          &gt; Visual Mode: Green Matrix Point-Cloud Hologram
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+
+<p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 15px;">
+<code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
+</p>
+
+<img src="2572032_Khresna.jpg" width="180" alt="Khresmupu Hologram" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 15px #10B981;" />
+
+<p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 15px; margin-bottom: 0;">
+&gt; Target: Khresna Mulia Putra (Creative Developer)<br>
+&gt; Visual Mode: Green Matrix Point-Cloud Hologram
+</p>
+
 </div>
        
 
