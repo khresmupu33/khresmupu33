@@ -1,16 +1,3 @@
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
-
-<p align="center">
-  <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
-</p>
-
-</div>
-
----
 <div align="center">
 
 <!-- Banner Samping Kiri dan Kanan dengan Tabel -->
@@ -32,6 +19,9 @@
 </table>
 
 </div>
+
+---
+
 
 ## 📖 Tentang Saya
 
@@ -152,9 +142,6 @@ Sistem pencatatan dan pengelolaan keuangan berbasis database yang dirancang khus
   ],
   "current_status": "Open for collaborations, research projects, and creative web development initiatives!"
 }
-```
-
----
 
 <div align="center">
 
