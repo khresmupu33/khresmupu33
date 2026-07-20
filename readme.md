@@ -12,33 +12,27 @@
 
 <div style="background-color: #000000; color: #00FF66; padding: 20px; border-radius: 10px;">
 
-## <details><summary><span style="color: #00FF66; cursor: pointer;">📖 Tentang Saya</span></summary></details>
+## <span style="color: #00FF66;">📖 Tentang Saya</span>
 
-Halo! Saya <strong style="color: #00FF66;">Khresna Mulia Putra</strong>, atau lebih dikenal dengan nama <strong style="color: #00FF66;">Khresmupu</strong>, seorang <strong style="color: #00FF66;">Creative Developer</strong> dan mahasiswa <strong style="color: #00FF66;">Program Studi Teknik Informatika Universitas Kristen Maranatha, Bandung</strong>.
+<span style="color: #00FF66;">Halo! Saya <strong>Khresna Mulia Putra</strong>, atau lebih dikenal dengan nama <strong>Khresmupu</strong>, seorang <strong>Creative Developer</strong> dan mahasiswa <strong>Program Studi Teknik Informatika Universitas Kristen Maranatha, Bandung</strong>.</span>
 
-Saya memiliki ketertarikan yang besar dalam mengembangkan website yang tidak hanya berfungsi sebagai media informasi, tetapi juga mampu menghadirkan pengalaman belajar yang lebih menarik melalui pemanfaatan <strong style="color: #00FF66;">animasi 3D</strong>, <strong style="color: #00FF66;">visual interaktif</strong>, serta <strong style="color: #00FF66;">teknologi web modern</strong>.
+<span style="color: #00FF66;">Saya memiliki ketertarikan yang besar dalam mengembangkan website yang tidak hanya berfungsi sebagai media informasi, tetapi juga mampu menghadirkan pengalaman belajar yang lebih menarik melalui pemanfaatan <strong>animasi 3D</strong>, <strong>visual interaktif</strong>, serta <strong>teknologi web modern</strong>.</span>
 
-Bagi saya, teknologi bukan sekadar kumpulan baris kode. Teknologi merupakan media untuk menyampaikan informasi secara lebih efektif, mudah dipahami, dan memberikan pengalaman yang menyenangkan bagi pengguna.
+<span style="color: #00FF66;">Bagi saya, teknologi bukan sekadar kumpulan baris kode. Teknologi merupakan media untuk menyampaikan informasi secara lebih efektif, mudah dipahami, dan memberikan pengalaman yang menyenangkan bagi pengguna.</span>
 
-Selain aktif dalam pengembangan website, saya juga menyalurkan kreativitas melalui <strong style="color: #00FF66;">produksi musik instrumental</strong>. Saya percaya bahwa pemrograman dan musik memiliki tujuan yang sama, yaitu menyelesaikan permasalahan, hanya saja melalui pendekatan yang berbeda.
+<span style="color: #00FF66;">Selain aktif dalam pengembangan website, saya juga menyalurkan kreativitas melalui <strong>produksi musik instrumental</strong>. Saya percaya bahwa pemrograman dan musik memiliki tujuan yang sama, yaitu menyelesaikan permasalahan, hanya saja melalui pendekatan yang berbeda.</span>
 
 ---
 
-## <details><summary><span style="color: #00FF66; cursor: pointer;">🎯 Filosofi Pengembangan</span></summary></details>
+## <span style="color: #00FF66;">🎯 Filosofi Pengembangan</span>
 
-Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk yang memiliki karakteristik sebagai berikut:
+<span style="color: #00FF66;">Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk yang memiliki karakteristik sebagai berikut:</span>
 
 <div align="center">
-
-<details>
-<summary><span style="color: #00FF66; cursor: pointer;"><b>Klik untuk Melihat Tabel Filosofi Pengembangan</b></span></summary>
-<br>
 
 | <span style="color: #00FF66;">🧠 **Edukatif**</span> | <span style="color: #00FF66;">⚡ **Interaktif**</span> | <span style="color: #00FF66;">📱 **Responsif**</span> | <span style="color: #00FF66;">🎯 **Mudah Digunakan**</span> | <span style="color: #00FF66;">🎨 **Desain Menarik**</span> | <span style="color: #00FF66;">🚀 **UX Optimal**</span> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <span style="color: #00FF66;">Fokus pada pembelajaran</span> | <span style="color: #00FF66;">Melibatkan pengguna</span> | <span style="color: #00FF66;">Adaptif di semua layar</span> | <span style="color: #00FF66;">User-friendly UI</span> | <span style="color: #00FF66;">Estetis & Bersih</span> | <span style="color: #00FF66;">Pengalaman terbaik</span> |
-
-</details>
 
 </div>
 
@@ -46,27 +40,17 @@ Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk
 
 ---
 
-## <details><summary><span style="color: #00FF66; cursor: pointer;">🚀 Bidang Keahlian Utama</span></summary></details>
-
-<details>
-<summary><span style="color: #00FF66; cursor: pointer;"><b>Klik untuk Membuka Detail Bidang Keahlian Utama</b></span></summary>
-<br>
+## <span style="color: #00FF66;">🚀 Bidang Keahlian Utama</span>
 
 | <span style="color: #00FF66;">🌐 Web Development</span> | <span style="color: #00FF66;">🎬 Integrasi Animasi 3D</span> | <span style="color: #00FF66;">🎵 Produksi Musik Digital</span> |
 | :--- | :--- | :--- |
 | <span style="color: #00FF66;">Mengembangkan website modern dengan struktur kode yang rapi, responsif, serta mudah dipelihara.</span> | <span style="color: #00FF66;">Menggabungkan aset tiga dimensi hasil pemodelan Blender ke dalam website untuk media pembelajaran interaktif.</span> | <span style="color: #00FF66;">Menciptakan musik instrumental orisinal dengan pendekatan *storytelling* untuk membangun suasana.</span> |
 | <span style="color: #00FF66;">**Tech Stack:**<br>`HTML5` • `CSS3` • `JavaScript` • `PHP` • `SQL` • `Tailwind CSS` • `jQuery`</span> | <span style="color: #00FF66;">**Pengalaman:**<br>• Animasi edukasi 3D<br>• Visualisasi objek interaktif<br>• Integrasi multimedia web<br>• Optimasi performa render</span> | <span style="color: #00FF66;">**Perangkat & Alat:**<br>`BandLab` • `Walk Band`<br>• Komposisi instrumental • *Soundscape*</span> |
 
-</details>
-
 ---
 
-## <details><summary><span style="color: #00FF66; cursor: pointer;">💻 Keahlian Teknis & Metrik Penguasaan</span></summary></details>
+## <span style="color: #00FF66;">💻 Keahlian Teknis & Metrik Penguasaan</span>
 
-<br>
-
-<details>
-<summary><span style="color: #00FF66; cursor: pointer;"><b>Klik untuk Membuka Detail Metrik Keahlian Teknis</b></span></summary>
 <br>
 
 | <span style="color: #00FF66;">Keahlian</span> | <span style="color: #00FF66;">Tingkat Penguasaan</span> | <span style="color: #00FF66;">Status Visual</span> |
@@ -78,14 +62,12 @@ Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk
 | <span style="color: #00FF66;">**Music Production**</span> | <span style="color: #00FF66;">**65%**</span> | <span style="color: #00FF66;">![65%](https://progress-bar.xyz/65/?scale=100&title=Creative&color=00BB44)</span> |
 | <span style="color: #00FF66;">**Problem Solving & Logical Thinking**</span> | <span style="color: #00FF66;">**70%**</span> | <span style="color: #00FF66;">![70%](https://progress-bar.xyz/70/?scale=100&title=Analytical&color=00FF66)</span> |
 
-</details>
-
 ---
 
-## <details><summary><span style="color: #00FF66; cursor: pointer;">🌟 Proyek Unggulan & Inovasi 3D</span></summary></details>
+## <span style="color: #00FF66;">🌟 Proyek Unggulan & Inovasi 3D</span>
 
 <details>
-<summary><b style="color: #00FF66; cursor: pointer;">🏊 Tirta Sapa — Website Pembelajaran Renang Berbasis Animasi 3D (2025)</b></summary>
+<summary><b style="color: #00FF66;">🏊 Tirta Sapa — Website Pembelajaran Renang Berbasis Animasi 3D (2025)</b></summary>
 <br>
 
 <span style="color: #00FF66;">Website edukasi yang dikembangkan berdasarkan penelitian mendalam untuk membantu proses pembelajaran teknik renang melalui animasi tiga dimensi yang interaktif.</span>
@@ -101,7 +83,7 @@ Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk
 </details>
 
 <details>
-<summary><b style="color: #00FF66; cursor: pointer;">🏯 Jogja Culture — Website Edukasi Budaya Yogyakarta (2026)</b></summary>
+<summary><b style="color: #00FF66;">🏯 Jogja Culture — Website Edukasi Budaya Yogyakarta (2026)</b></summary>
 <br>
 
 <span style="color: #00FF66;">Platform digital komprehensif yang memperkenalkan budaya, sejarah, pariwisata, kuliner, serta perkembangan teknologi di Daerah Istimewa Yogyakarta.</span>
@@ -117,7 +99,7 @@ Dalam setiap proyek yang saya kerjakan, saya selalu berusaha menghadirkan produk
 </details>
 
 <details>
-<summary><b style="color: #00FF66; cursor: pointer;">💰 KasKeuangan Khresmupu — Website Manajemen Keuangan (2026)</b></summary>
+<summary><b style="color: #00FF66;">💰 KasKeuangan Khresmupu — Website Manajemen Keuangan (2026)</b></summary>
 <br>
 
 <span style="color: #00FF66;">Sistem pencatatan dan pengelolaan keuangan berbasis database yang dirancang khusus untuk membantu pengguna mengontrol pemasukan, pengeluaran, serta laporan keuangan secara real-time.</span>
