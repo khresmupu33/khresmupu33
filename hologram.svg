@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1520" viewBox="0 0 800 1520">
   <defs>
-    <!-- Filter Matrix Hijau -->
+    <!-- Matrix Green Color Matrix -->
     <filter id="matrix-hologram">
       <feColorMatrix type="matrix" values="
         0.2  0.7  0.1  0   0
@@ -9,30 +9,202 @@
         0    0    0    1   0" />
     </filter>
 
-    <!-- Masker Lingkaran (DIPERBESAR: Radius disesuaikan untuk crop yang lebih ketat) -->
-    <clipPath id="circle-mask">
-      <circle cx="300" cy="180" r="150" />
-    </clipPath>
+    <!-- Scanline Pattern for Hologram Grid Effect -->
+    <pattern id="scanlines" width="800" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="800" y2="0" stroke="#000000" stroke-width="1.5" opacity="0.35" />
+    </pattern>
+
+    <!-- Glow Effect -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
 
-  <!-- Latar Belakang Hitam & Bingkai Luar -->
-  <rect width="100%" height="100%" fill="#000000" rx="12" />
-  <rect x="5" y="5" width="590" height="510" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="6 6" rx="10" opacity="0.6" />
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="#020804" rx="16" />
 
-  <!-- Foto Utama di dalam Lingkaran (DIPERBAIKI: Zoom dan Posisi agar Pas di Tengah) -->
-  <!-- Perhitungan agar pas di tengah (pusat 300, 180): -->
-  <!-- Gambar asli: 300x300. Setelah diubah, ukurannya menjadi 480x480. -->
-  <!-- Sudut kiri atas: x = 300 - (480/2) = 60, y = 180 - (480/2) = -60 -->
-  <g clip-path="url(#circle-mask)">
-    <rect x="60" y="-60" width="480" height="480" fill="#000000" />
-    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="60" y="-60" width="480" height="480" filter="url(#matrix-hologram)" />
+  <!-- Hologram Grid Background Details -->
+  <g stroke="#10B981" stroke-width="0.5" opacity="0.12">
+    <path d="M 0,100 L 800,100 M 0,300 L 800,300 M 0,500 L 800,500 M 0,700 L 800,700 M 0,900 L 800,900 M 0,1100 L 800,1100 M 0,1300 L 800,1300" />
+    <path d="M 100,0 L 100,1520 M 300,0 L 300,1520 M 500,0 L 500,1520 M 700,0 L 700,1520" />
   </g>
 
-  <!-- Bingkai Lingkaran Neon Hijau -->
-  <circle cx="300" cy="180" r="150" fill="none" stroke="#10B981" stroke-width="4" opacity="0.95" />
+  <!-- Outer Neon Border -->
+  <rect x="10" y="10" width="780" height="1500" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="8 8" rx="12" opacity="0.75" />
+  <rect x="16" y="16" width="768" height="1488" fill="none" stroke="#059669" stroke-width="1" rx="10" opacity="0.4" />
 
-  <!-- Teks Status Terminal Hologram (DIPERBAIKI: Teks debug dihapus) -->
-  <text x="300" y="395" font-family="monospace" font-size="16" fill="#10B981" text-anchor="middle" font-weight="bold">[SYSTEM_STATUS: HOLOGRAM_MATRIX_ACTIVE]</text>
-  <text x="300" y="435" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Target: Khresna Mulia Putra (Creative Developer)</text>
-  <text x="300" y="460" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Visual Mode: Green Matrix Point-Cloud Hologram</text>
+  <!-- HEADER / TITLE SECTION -->
+  <g transform="translate(40, 45)">
+    <!-- Terminal Banner Box -->
+    <rect x="0" y="0" width="720" height="90" fill="#03140A" stroke="#10B981" stroke-width="1.5" rx="8" filter="url(#neon-glow)" />
+    <text x="360" y="38" font-family="monospace" font-size="22" fill="#10B981" text-anchor="middle" font-weight="bold" letter-spacing="1">KHRESMUPU // PROFILE MATRIX</text>
+    <text x="360" y="65" font-family="monospace" font-size="12" fill="#34D399" text-anchor="middle" opacity="0.9">[SYSTEM_STATUS: ACTIVE // CREATIVE DEVELOPER &amp; 3D ENTHUSIAST]</text>
+    
+    <!-- Quote Sub-banner -->
+    <rect x="0" y="105" width="720" height="42" fill="#010A05" stroke="#059669" stroke-width="1" rx="6" />
+    <text x="360" y="131" font-family="monospace" font-size="11" fill="#6EE7B7" text-anchor="middle" font-style="italic">✨ "Mengembangkan pengalaman digital interaktif: Teknologi, Edukasi, &amp; Kreativitas." ✨</text>
+  </g>
+
+  <!-- SECTION 1: TENTANG SAYA -->
+  <g transform="translate(40, 220)">
+    <rect x="0" y="0" width="720" height="185" fill="#031008" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <path d="M 0,0 L 20,0 L 0,20 Z" fill="#10B981" />
+    
+    <!-- Section Title -->
+    <text x="25" y="32" font-family="monospace" font-size="16" fill="#10B981" font-weight="bold">&gt; 📖 TENTANG SAYA</text>
+    <line x1="25" y1="42" x2="695" y2="42" stroke="#059669" stroke-width="1" opacity="0.5" />
+
+    <!-- Paragraph Content -->
+    <text x="25" y="70" font-family="monospace" font-size="12" fill="#A7F3D0">Halo! Saya <tspan fill="#34D399" font-weight="bold">Khresna Mulia Putra</tspan> (atau <tspan fill="#34D399" font-weight="bold">Khresmupu</tspan>), seorang Creative</text>
+    <text x="25" y="90" font-family="monospace" font-size="12" fill="#A7F3D0">Developer &amp; mahasiswa <tspan fill="#34D399">Teknik Informatika Universitas Kristen Maranatha</tspan>.</text>
+    <text x="25" y="118" font-family="monospace" font-size="12" fill="#A7F3D0">Berfokus pada website informatif yang menghadirkan pengalaman belajar interaktif</text>
+    <text x="25" y="138" font-family="monospace" font-size="12" fill="#A7F3D0">lewat <tspan fill="#10B981" font-weight="bold">animasi 3D</tspan> dan teknologi modern. Serta menyalurkan kreativitas lewat</text>
+    <text x="25" y="158" font-family="monospace" font-size="12" fill="#A7F3D0"><tspan fill="#10B981" font-weight="bold">produksi musik instrumental</tspan> dengan pendekatan storytelling.</text>
+  </g>
+
+  <!-- SECTION 2: FILOSOFI PENGEMBANGAN -->
+  <g transform="translate(40, 435)">
+    <rect x="0" y="0" width="720" height="135" fill="#031008" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <text x="25" y="32" font-family="monospace" font-size="16" fill="#10B981" font-weight="bold">&gt; 🎯 FILOSOFI PENGEMBANGAN</text>
+    <line x1="25" y1="42" x2="695" y2="42" stroke="#059669" stroke-width="1" opacity="0.5" />
+
+    <!-- 6 Philosophy Grid Badges -->
+    <!-- Row 1 -->
+    <g transform="translate(25, 55)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">🧠 01. Edukatif</text>
+    </g>
+    <g transform="translate(251, 55)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">⚡ 02. Interaktif</text>
+    </g>
+    <g transform="translate(477, 55)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">📱 03. Responsif</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g transform="translate(25, 90)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">🎯 04. Mudah Digunakan</text>
+    </g>
+    <g transform="translate(251, 90)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">🎨 05. Estetis &amp; Bersih</text>
+    </g>
+    <g transform="translate(477, 90)">
+      <rect x="0" y="0" width="218" height="28" fill="#011A0C" stroke="#059669" rx="4" />
+      <text x="109" y="18" font-family="monospace" font-size="11" fill="#34D399" text-anchor="middle">🚀 06. UX Optimal</text>
+    </g>
+  </g>
+
+  <!-- SECTION 3: BIDANG KEAHLIAN UTAMA -->
+  <g transform="translate(40, 590)">
+    <rect x="0" y="0" width="720" height="210" fill="#031008" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <text x="25" y="32" font-family="monospace" font-size="16" fill="#10B981" font-weight="bold">&gt; 🚀 BIDANG KEAHLIAN UTAMA</text>
+    <line x1="25" y1="42" x2="695" y2="42" stroke="#059669" stroke-width="1" opacity="0.5" />
+
+    <!-- 3 Columns -->
+    <!-- Col 1 -->
+    <g transform="translate(25, 55)">
+      <rect x="0" y="0" width="218" height="135" fill="#011208" stroke="#059669" rx="6" />
+      <text x="15" y="24" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">🌐 Web Dev</text>
+      <text x="15" y="48" font-family="monospace" font-size="10" fill="#A7F3D0">Membangun website</text>
+      <text x="15" y="63" font-family="monospace" font-size="10" fill="#A7F3D0">modern, terstruktur,</text>
+      <text x="15" y="78" font-family="monospace" font-size="10" fill="#A7F3D0">dan mudah dipelihara.</text>
+      <rect x="12" y="95" width="194" height="26" fill="#000000" stroke="#10B981" rx="4" />
+      <text x="109" y="112" font-family="monospace" font-size="9" fill="#10B981" text-anchor="middle">HTML • CSS • JS • PHP</text>
+    </g>
+
+    <!-- Col 2 -->
+    <g transform="translate(251, 55)">
+      <rect x="0" y="0" width="218" height="135" fill="#011208" stroke="#059669" rx="6" />
+      <text x="15" y="24" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">🎬 Animasi 3D</text>
+      <text x="15" y="48" font-family="monospace" font-size="10" fill="#A7F3D0">Integrasi model Blender</text>
+      <text x="15" y="63" font-family="monospace" font-size="10" fill="#A7F3D0">untuk media edukasi</text>
+      <text x="15" y="78" font-family="monospace" font-size="10" fill="#A7F3D0">visual yang interaktif.</text>
+      <rect x="12" y="95" width="194" height="26" fill="#000000" stroke="#10B981" rx="4" />
+      <text x="109" y="112" font-family="monospace" font-size="9" fill="#10B981" text-anchor="middle">Blender • 3D Web • Canvas</text>
+    </g>
+
+    <!-- Col 3 -->
+    <g transform="translate(477, 55)">
+      <rect x="0" y="0" width="218" height="135" fill="#011208" stroke="#059669" rx="6" />
+      <text x="15" y="24" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">🎵 Musik Digital</text>
+      <text x="15" y="48" font-family="monospace" font-size="10" fill="#A7F3D0">Komposisi musik</text>
+      <text x="15" y="63" font-family="monospace" font-size="10" fill="#A7F3D0">instrumental orisinal</text>
+      <text x="15" y="78" font-family="monospace" font-size="10" fill="#A7F3D0">berbasis storytelling.</text>
+      <rect x="12" y="95" width="194" height="26" fill="#000000" stroke="#10B981" rx="4" />
+      <text x="109" y="112" font-family="monospace" font-size="9" fill="#10B981" text-anchor="middle">BandLab • Walk Band</text>
+    </g>
+  </g>
+
+  <!-- SECTION 4: KEAHLIAN TEKNIS & METRIK -->
+  <g transform="translate(40, 820)">
+    <rect x="0" y="0" width="720" height="215" fill="#031008" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <text x="25" y="32" font-family="monospace" font-size="16" fill="#10B981" font-weight="bold">&gt; 💻 KEAHLIAN TEKNIS &amp; METRIK</text>
+    <line x1="25" y1="42" x2="695" y2="42" stroke="#059669" stroke-width="1" opacity="0.5" />
+
+    <!-- Metrics Bars -->
+    <!-- Skill 1 -->
+    <text x="25" y="68" font-family="monospace" font-size="11" fill="#A7F3D0">Web Frontend &amp; Responsive Design (80%)</text>
+    <rect x="25" y="76" width="670" height="12" fill="#000000" stroke="#059669" rx="3" />
+    <rect x="25" y="76" width="536" height="12" fill="#10B981" rx="3" />
+
+    <!-- Skill 2 -->
+    <text x="25" y="108" font-family="monospace" font-size="11" fill="#A7F3D0">UI / UX Design (80%)</text>
+    <rect x="25" y="116" width="670" height="12" fill="#000000" stroke="#059669" rx="3" />
+    <rect x="25" y="116" width="536" height="12" fill="#10B981" rx="3" />
+
+    <!-- Skill 3 -->
+    <text x="25" y="148" font-family="monospace" font-size="11" fill="#A7F3D0">Blender 3D &amp; 3D Web (75%)</text>
+    <rect x="25" y="156" width="670" height="12" fill="#000000" stroke="#059669" rx="3" />
+    <rect x="25" y="156" width="502" height="12" fill="#34D399" rx="3" />
+
+    <!-- Skill 4 -->
+    <text x="25" y="188" font-family="monospace" font-size="11" fill="#A7F3D0">Backend PHP, SQL &amp; Music Production (50% - 65%)</text>
+    <rect x="25" y="196" width="670" height="12" fill="#000000" stroke="#059669" rx="3" />
+    <rect x="25" y="196" width="385" height="12" fill="#059669" rx="3" />
+  </g>
+
+  <!-- SECTION 5: PROYEK UNGGULAN -->
+  <g transform="translate(40, 1055)">
+    <rect x="0" y="0" width="720" height="235" fill="#031008" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <text x="25" y="32" font-family="monospace" font-size="16" fill="#10B981" font-weight="bold">&gt; 🌟 PROYEK UNGGULAN &amp; INOVASI 3D</text>
+    <line x1="25" y1="42" x2="695" y2="42" stroke="#059669" stroke-width="1" opacity="0.5" />
+
+    <!-- Project 1 -->
+    <rect x="25" y="55" width="670" height="52" fill="#01140A" stroke="#059669" rx="6" />
+    <text x="40" y="75" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">🏊 Tirta Sapa — Website Pembelajaran Renang 3D (2025)</text>
+    <text x="40" y="93" font-family="monospace" font-size="10" fill="#A7F3D0">Media visual interaktif mekanika &amp; teknik renang | Tech: HTML/CSS/JS, Blender 3D</text>
+
+    <!-- Project 2 -->
+    <rect x="25" y="115" width="670" height="52" fill="#01140A" stroke="#059669" rx="6" />
+    <text x="40" y="135" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">🏯 Jogja Culture — Website Edukasi Budaya Yogyakarta (2026)</text>
+    <text x="40" y="153" font-family="monospace" font-size="10" fill="#A7F3D0">Eksplorasi sejarah, galeri artefak digital, &amp; peta wisata | Tech: Tailwind, jQuery</text>
+
+    <!-- Project 3 -->
+    <rect x="25" y="175" width="670" height="52" fill="#01140A" stroke="#059669" rx="6" />
+    <text x="40" y="195" font-family="monospace" font-size="12" fill="#34D399" font-weight="bold">💰 KasKeuangan Khresmupu — Manajemen Keuangan (2026)</text>
+    <text x="40" y="213" font-family="monospace" font-size="10" fill="#A7F3D0">Sistem pencatatan kas &amp; rekapitulasi database SQL | Tech: PHP, SQL, JavaScript</text>
+  </g>
+
+  <!-- SECTION 6: MINAT & FOCUS RESEARCH (JSON BLOCK) -->
+  <g transform="translate(40, 1310)">
+    <rect x="0" y="0" width="720" height="150" fill="#010D06" stroke="#10B981" stroke-width="1.5" rx="8" />
+    <text x="25" y="28" font-family="monospace" font-size="14" fill="#10B981" font-weight="bold">&gt; 🎯 RESEARCH_FOCUS.json</text>
+    <line x1="25" y1="36" x2="695" y2="36" stroke="#059669" stroke-width="1" opacity="0.4" />
+
+    <!-- JSON Content Lines -->
+    <text x="40" y="58" font-family="monospace" font-size="11" fill="#34D399">{</text>
+    <text x="60" y="75" font-family="monospace" font-size="11" fill="#A7F3D0">"developer": <tspan fill="#34D399">"Khresna Mulia Putra (Khresmupu)"</tspan>,</text>
+    <text x="60" y="92" font-family="monospace" font-size="11" fill="#A7F3D0">"institution": <tspan fill="#34D399">"Universitas Kristen Maranatha"</tspan>,</text>
+    <text x="60" y="109" font-family="monospace" font-size="11" fill="#A7F3D0">"focus_areas": [<tspan fill="#10B981">"Web Dev", "3D Animation", "EdTech", "UI/UX", "Music Production"</tspan>],</text>
+    <text x="60" y="126" font-family="monospace" font-size="11" fill="#A7F3D0">"status": <tspan fill="#34D399">"Open for collaborations &amp; research projects!"</tspan></text>
+    <text x="40" y="142" font-family="monospace" font-size="11" fill="#34D399">}</text>
+  </g>
+
+  <!-- Scanline Overlay for Entire Hologram -->
+  <rect width="100%" height="100%" fill="url(#scanlines)" pointer-events="none" />
 </svg>
