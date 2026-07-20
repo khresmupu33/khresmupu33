@@ -10,26 +10,7 @@
 
 </div>
 
-<div align="center" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
-
-<p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 15px;">
-<code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
-</p>
-
-<!-- Pembungkus Efek Hologram & Scanlines -->
-<div style="position: relative; display: inline-block; border-radius: 50%; overflow: hidden; border: 4px solid #10B981; box-shadow: 0 0 20px #10B981;">
-  <img src="2572032_Khresna.jpg" width="180" alt="Khresmupu Hologram" style="display: block; mix-blend-mode: luminosity; background-color: #00FF66;" />
-  <!-- Lapisan Garis Hologram (Scanlines Overlay) -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: repeating-linear-gradient(0deg, rgba(0,255,100,0.15), rgba(0,255,100,0.15) 1px, transparent 1px, transparent 2px); pointer-events: none;"></div>
-</div>
-
-<p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 15px; margin-bottom: 0;">
-&gt; Target: Khresna Mulia Putra (Creative Developer)<br>
-&gt; Visual Mode: Green Matrix Point-Cloud Hologram
-</p>
-
-</div>
-       
+     
 
 ---
 ## 📖 Tentang Saya
