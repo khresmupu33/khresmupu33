@@ -18,14 +18,7 @@
 
 <div style="background-color: #000000; color: #00FF66; padding: 20px; border-radius: 10px;">
 
-## <span style="color: #00FF66;">🌐 Live Preview Website Portofolio</span>
 
-<span style="color: #00FF66;">Berikut adalah pratinjau langsung dari website portofolio interaktif saya. Anda dapat melihat dan mengujinya secara langsung di bawah ini:</span>
-
-
-  <iframe src="https://portofolio-khresmupu.netlify.app/" width="100%" height="500px" style="border: 2px solid #00FF66; border-radius: 10px; background-color: #000000;"></iframe>
-
----
 
 ## <span style="color: #00FF66;">📖 Tentang Saya</span>
 
