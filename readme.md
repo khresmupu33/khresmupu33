@@ -2,16 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%20Portfolio&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <p align="center">
   <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
 </p>
-
-[![Portfolio Status](https://img.shields.io/badge/Status-Active%20%26%20Growing-success?style=for-the-badge&logo=git&logoColor=white)](https://github.com/khresmupu)
-[![Major](https://img.shields.io/badge/Major-Informatics%20Engineering-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.maranatha.edu)
-[![University](https://img.shields.io/badge/University-Maranatha%20Christian%20University-purple?style=for-the-badge&logo=graduation-dot-com&logoColor=white)](https://www.maranatha.edu)
-[![Music & 3D](https://img.shields.io/badge/Creative-3D%20%2B%20Music-orange?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/khresmupu)
 
 </div>
 
@@ -162,17 +157,7 @@ Sistem pencatatan dan pengelolaan keuangan berbasis database yang dirancang khus
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khresmupu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khresmupu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,10B981,05966&height=100&section=footer&text=Terima%20Kasih%20Teladani%20Kreativitas&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 </div>
