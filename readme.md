@@ -3,22 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu%&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- Layout Utama dengan Animasi Gelombang Vertikal di Sisi Kiri & Kanan -->
-<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<!-- Bingkai Utuh untuk Seluruh Konten (Atas, Bawah, Kiri, Kanan) -->
+<table width="100%" align="center" style="border: 4px solid #10B981; border-radius: 12px; background-color: #0D1117; border-collapse: separate; border-spacing: 0;">
   <tr>
-    <!-- Sisi Kiri: Animasi Gelombang Diputar 90 Derajat -->
-    <td width="30" valign="middle" align="center" style="overflow: hidden; padding: 0;">
-      <div style="width: 600px; transform: rotate(-90deg); transform-origin: center;">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=30&section=header&text=&animation=fadeIn" width="100%"/>
-      </div>
-    </td>
+    <td style="padding: 30px; color: #c9d1d9;">
 
-    <!-- Kolom Konten Tengah (Seluruh Profil Anda) -->
-    <td valign="top" style="padding: 20px 25px;">
-
-      <p align="center">
+      <!-- Konten Profil Anda -->
+      <div align="center">
         <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
-      </p>
+      </div>
 
       <hr/>
 
@@ -144,14 +137,6 @@
       ```
 
     </td>
-
-    <!-- Sisi Kanan: Animasi Gelombang Diputar 90 Derajat (Arah Berlawanan) -->
-    <td width="30" valign="middle" align="center" style="overflow: hidden; padding: 0;">
-      <div style="width: 600px; transform: rotate(90deg); transform-origin: center;">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=30&section=header&text=&animation=fadeIn" width="100%"/>
-      </div>
-    </td>
-
   </tr>
 </table>
 
