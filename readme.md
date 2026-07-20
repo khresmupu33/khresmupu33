@@ -16,7 +16,12 @@
 <code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
 </p>
 
-<img src="2572032_Khresna.jpg" width="180" alt="Khresmupu Hologram" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 15px #10B981;" />
+<!-- Pembungkus Efek Hologram & Scanlines -->
+<div style="position: relative; display: inline-block; border-radius: 50%; overflow: hidden; border: 4px solid #10B981; box-shadow: 0 0 20px #10B981;">
+  <img src="2572032_Khresna.jpg" width="180" alt="Khresmupu Hologram" style="display: block; mix-blend-mode: luminosity; background-color: #00FF66;" />
+  <!-- Lapisan Garis Hologram (Scanlines Overlay) -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: repeating-linear-gradient(0deg, rgba(0,255,100,0.15), rgba(0,255,100,0.15) 1px, transparent 1px, transparent 2px); pointer-events: none;"></div>
+</div>
 
 <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 15px; margin-bottom: 0;">
 &gt; Target: Khresna Mulia Putra (Creative Developer)<br>
