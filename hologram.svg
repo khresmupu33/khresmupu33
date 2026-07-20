@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="540" viewBox="0 0 600 540">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520">
   <defs>
     <!-- Efek Filter Matrix Hijau -->
     <filter id="matrix-hologram">
@@ -8,36 +8,42 @@
         0.1  0.4  0.1  0   0
         0    0    0    1   0" />
       <feComponentTransfer>
-        <feFuncG type="linear" slope="1.8" />
+        <feFuncG type="linear" slope="1.6" />
       </feComponentTransfer>
     </filter>
 
     <!-- Pola Garis Scanlines Hologram -->
     <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(0, 255, 100, 0.35)" stroke-width="2" />
+      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(0, 255, 100, 0.3)" stroke-width="2" />
     </pattern>
 
-    <!-- Clip Path Lingkaran Diperbesar Agar Foto Tampil Utuh (Tidak Terlalu Zoom) -->
-    <clipPath id="circle-clip">
-      <circle cx="300" cy="180" r="150" />
+    <!-- Masker Lingkaran Sempurna -->
+    <clipPath id="circle-mask">
+      <circle cx="300" cy="180" r="130" />
     </clipPath>
   </defs>
 
   <!-- Latar Belakang Hitam & Bingkai Luar -->
   <rect width="100%" height="100%" fill="#000000" rx="12" />
-  <rect x="5" y="5" width="590" height="530" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="6 6" rx="10" opacity="0.6" />
+  <rect x="5" y="5" width="590" height="510" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="6 6" rx="10" opacity="0.6" />
 
-  <!-- Gambar Foto Anda (Diperkecil scale-nya agar tampil luas dan tidak zoom-in) -->
-  <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="75" y="10" width="450" height="450" preserveAspectRatio="xMidYMid meet" clip-path="url(#circle-clip)" filter="url(#matrix-hologram)" />
+  <!-- Grup yang dibungkus Masker Lingkaran Hologram -->
+  <g clip-path="url(#circle-mask)">
+    <!-- Latar belakang dalam lingkaran -->
+    <rect x="170" y="50" width="260" height="260" fill="#001105" />
+    
+    <!-- FOTO UTAMA: Ukuran dan posisi diatur pas agar tidak zoom berlebihan -->
+    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="180" y="60" width="240" height="240" filter="url(#matrix-hologram)" preserveAspectRatio="none" />
 
-  <!-- Bingkai Lingkaran Neon Hijau -->
-  <circle cx="300" cy="180" r="150" fill="none" stroke="#10B981" stroke-width="4" opacity="0.95" />
+    <!-- Efek Garis Scanlines di atas foto -->
+    <rect x="170" y="50" width="260" height="260" fill="url(#scanlines)" pointer-events="none" />
+  </g>
 
-  <!-- Efek Garis Scanlines -->
-  <rect x="150" y="30" width="300" height="300" clip-path="url(#circle-clip)" fill="url(#scanlines)" pointer-events="none" />
+  <!-- Bingkai Lingkaran Neon Hijau Luar -->
+  <circle cx="300" cy="180" r="130" fill="none" stroke="#10B981" stroke-width="4" opacity="0.95" />
 
   <!-- Teks Status Terminal Hologram -->
-  <text x="300" y="400" font-family="monospace" font-size="16" fill="#10B981" text-anchor="middle" font-weight="bold">[SYSTEM_STATUS: HOLOGRAM_MATRIX_ACTIVE]</text>
-  <text x="300" y="440" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Target: Khresna Mulia Putra (Creative Developer)</text>
-  <text x="300" y="465" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Visual Mode: Green Matrix Point-Cloud Hologram</text>
+  <text x="300" y="375" font-family="monospace" font-size="16" fill="#10B981" text-anchor="middle" font-weight="bold">[SYSTEM_STATUS: HOLOGRAM_MATRIX_ACTIVE]</text>
+  <text x="300" y="415" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Target: Khresna Mulia Putra (Creative Developer)</text>
+  <text x="300" y="440" font-family="monospace" font-size="13" fill="#10B981" text-anchor="middle">&gt; Visual Mode: Green Matrix Point-Cloud Hologram</text>
 </svg>
