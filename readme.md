@@ -1,185 +1,424 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu&fontSize=40&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&height=200&section=header&text=Khresmupu&fontSize=45&fontColor=10B981&animation=fadeIn"/>
 
-<p align="center">
-  <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
+<h1 style="color:#10B981">
+🚀 Khresmupu
+</h1>
+
+<p>
+<i>
+✨ Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas.
+</i>
 </p>
 
 </div>
 
----
-
-# 📖 Tentang Saya
-
-Halo! Saya **Khresna Mulia Putra**, atau lebih dikenal dengan nama **Khresmupu**, seorang **Creative Developer** dan mahasiswa **Program Studi Teknik Informatika Universitas Kristen Maranatha, Bandung**.
-
-Saya memiliki ketertarikan dalam mengembangkan teknologi digital yang menggabungkan **pemrograman, desain visual, animasi 3D, dan pengalaman pengguna interaktif**.
-
-Saya berfokus membuat website yang tidak hanya menyampaikan informasi, tetapi juga memberikan pengalaman yang lebih menarik melalui:
-
-- 🌐 Website interaktif
-- 🎨 Desain UI/UX modern
-- 🎬 Animasi 3D berbasis Blender
-- 📚 Media pembelajaran digital
-- 🚀 Teknologi web modern
-
-Bagi saya, teknologi bukan hanya sekadar kode, tetapi sebuah media untuk membantu manusia memahami informasi dengan cara yang lebih efektif dan menyenangkan.
-
-Selain dunia pemrograman, saya juga mengembangkan kreativitas melalui **produksi musik instrumental**. Saya percaya bahwa coding dan musik memiliki kesamaan, yaitu menciptakan sesuatu yang memiliki makna melalui proses kreatif.
 
 ---
 
-# 🎯 Filosofi Pengembangan
+# <span style="color:#10B981">📖 Tentang Saya</span>
 
-Dalam setiap proyek yang saya buat, saya selalu mengutamakan:
+Halo! Saya **Khresna Mulia Putra**, atau dikenal sebagai **Khresmupu**.
+
+Saya adalah seorang **Creative Developer** dan mahasiswa **Teknik Informatika Universitas Kristen Maranatha Bandung**.
+
+Saya berfokus mengembangkan teknologi digital yang menggabungkan:
 
 <div align="center">
 
-| 🧠 Edukatif | ⚡ Interaktif | 📱 Responsif | 🎯 Mudah Digunakan | 🎨 Visual Menarik | 🚀 UX Optimal |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Memberikan nilai pembelajaran | Melibatkan pengguna | Beradaptasi dengan berbagai perangkat | UI sederhana dan nyaman | Desain modern | Pengalaman pengguna terbaik |
+<table>
+<tr>
+
+<td bgcolor="#0D1117">
+
+<h3 style="color:#10B981">
+🌐 Web Development
+</h3>
+
+Membangun website modern, responsif, dan interaktif.
+
+</td>
+
+
+<td bgcolor="#0D1117">
+
+<h3 style="color:#10B981">
+🎬 3D Interactive
+</h3>
+
+Mengintegrasikan Blender dan teknologi web.
+
+</td>
+
+
+<td bgcolor="#0D1117">
+
+<h3 style="color:#10B981">
+🎵 Creative Media
+</h3>
+
+Mengembangkan musik instrumental dan multimedia.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 
-> **"Teknologi menjadi lebih bermakna ketika mampu membantu manusia belajar, memahami, dan berkembang."**
+---
+
+# <span style="color:#10B981">🎯 Filosofi Pengembangan</span>
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+<h3>🧠 Edukatif</h3>
+
+Memberikan pengalaman belajar yang mudah dipahami.
+
+</td>
+
+<td bgcolor="#0D1117">
+
+<h3>⚡ Interaktif</h3>
+
+Melibatkan pengguna secara aktif.
+
+</td>
+
+<td bgcolor="#0D1117">
+
+<h3>📱 Responsif</h3>
+
+Optimal di berbagai perangkat.
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+<h3>🎨 Visual</h3>
+
+Mengutamakan desain menarik.
+
+</td>
+
+<td bgcolor="#0D1117">
+
+<h3>🚀 Modern</h3>
+
+Menggunakan teknologi terbaru.
+
+</td>
+
+<td bgcolor="#0D1117">
+
+<h3>🎯 UX</h3>
+
+Memberikan pengalaman terbaik.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+> 💚 "Teknologi menjadi lebih bermakna ketika mampu membantu manusia belajar, memahami, dan berkembang."
+
 
 ---
 
-# 🚀 Bidang Keahlian Utama
+# <span style="color:#10B981">🚀 Bidang Keahlian</span>
 
-| 🌐 Web Development | 🎬 Integrasi Animasi 3D | 🎵 Produksi Musik Digital |
-| :--- | :--- | :--- |
-| Mengembangkan website modern dengan struktur kode rapi, responsif, dan mudah dikembangkan. | Menggabungkan teknologi 3D Blender ke dalam website sebagai media pembelajaran interaktif. | Membuat musik instrumental dengan pendekatan storytelling dan suasana emosional. |
-| **Tech Stack:**<br>`HTML5` • `CSS3` • `JavaScript` • `PHP` • `SQL` • `Tailwind CSS` • `jQuery` | **Pengalaman:**<br>• Animasi edukasi 3D<br>• Visualisasi objek digital<br>• Multimedia interaktif<br>• Optimasi performa | **Tools:**<br>`BandLab` • `Walk Band`<br>• Komposisi musik<br>• Soundscape |
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<th bgcolor="#10B981">
+<b>🌐 Web Development</b>
+</th>
+
+<th bgcolor="#10B981">
+<b>🎬 Animasi 3D</b>
+</th>
+
+<th bgcolor="#10B981">
+<b>🎵 Musik Digital</b>
+</th>
+
+</tr>
+
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+PHP<br>
+SQL<br>
+Tailwind CSS
+
+</td>
+
+
+<td bgcolor="#0D1117">
+
+Blender 3D<br>
+3D Animation<br>
+Interactive Model<br>
+Multimedia Web
+
+</td>
+
+
+<td bgcolor="#0D1117">
+
+BandLab<br>
+Walk Band<br>
+Composition<br>
+Soundscape
+
+</td>
+
+
+</tr>
+
+</table>
+
+</div>
+
+
 
 ---
 
-# 💻 Keahlian Teknis
+# <span style="color:#10B981">💻 Keahlian Teknis</span>
 
-<br>
 
-| Keahlian | Tingkat Penguasaan | Visual |
-| :--- | :---: | :--- |
-| **Web Frontend & Responsive Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
-| **UI / UX Design** | **80%** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Advanced&color=success) |
-| **Backend PHP & SQL Database** | **50%** | ![50%](https://progress-bar.xyz/50/?scale=100&title=Intermediate&color=success) |
-| **Blender 3D & 3D Web** | **75%** | ![75%](https://progress-bar.xyz/75/?scale=100&title=Advanced&color=success) |
-| **Music Production** | **65%** | ![65%](https://progress-bar.xyz/65/?scale=100&title=Creative&color=success) |
-| **Problem Solving & Logical Thinking** | **70%** | ![70%](https://progress-bar.xyz/70/?scale=100&title=Analytical&color=success) |
+<div align="center">
+
+<table>
+
+<tr bgcolor="#10B981">
+
+<th>Keahlian</th>
+<th>Level</th>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>🌐 Frontend & Responsive Design</td>
+<td>
+
+████████░░ 80%
+
+</td>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>🎨 UI / UX Design</td>
+<td>
+
+████████░░ 80%
+
+</td>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>⚙️ Backend PHP & SQL</td>
+<td>
+
+█████░░░░░ 50%
+
+</td>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>🎬 Blender 3D</td>
+<td>
+
+███████░░░ 75%
+
+</td>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>🎵 Music Production</td>
+<td>
+
+██████░░░░ 65%
+
+</td>
+
+</tr>
+
+
+<tr bgcolor="#0D1117">
+
+<td>🧠 Problem Solving</td>
+<td>
+
+███████░░░ 70%
+
+</td>
+
+</tr>
+
+
+</table>
+
+</div>
+
+
 
 ---
 
-# 🌟 Proyek Unggulan
-
-<details>
-<summary><b>🏊 Tirta Sapa — Website Pembelajaran Renang Berbasis Animasi 3D (2025)</b></summary>
-
-<br>
-
-Website edukasi berbasis animasi tiga dimensi yang dikembangkan untuk membantu siswa memahami teknik renang melalui visualisasi interaktif.
-
-### 🎯 Tujuan
-Memberikan media pembelajaran visual agar siswa dapat memahami gerakan renang dengan lebih mudah.
-
-### ✨ Fitur
-- Visualisasi 3D gaya renang:
-  - Gaya Bebas
-  - Gaya Dada
-  - Gaya Punggung
-  - Gaya Kupu-kupu
-- Rotate dan zoom model 3D
-- Video pembelajaran interaktif
-- Panduan teknik bertahap
-
-### 🛠️ Teknologi
-
-`HTML5`  
-`CSS3`  
-`JavaScript`  
-`Blender 3D`  
-`Interactive Canvas`
-
-### 👥 Tim
-
-Khresmupu & andreasanandeto-web
-
-</details>
+# <span style="color:#10B981">🌟 Proyek Unggulan</span>
 
 
-<details>
-<summary><b>🏯 Jogja Culture — Website Edukasi Budaya Yogyakarta (2026)</b></summary>
+## 🏊 Tirta Sapa
+
+<div>
+
+<table>
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+Website pembelajaran renang berbasis animasi 3D.
+
+<br><br>
+
+<b>Teknologi:</b>
 
 <br>
 
-Website digital yang memperkenalkan sejarah, budaya, kuliner, destinasi wisata, dan perkembangan teknologi Yogyakarta.
+HTML5 • CSS3 • JavaScript • Blender 3D
 
-### 🎯 Tujuan
+</td>
 
-Menghadirkan pengalaman eksplorasi budaya melalui media digital interaktif.
+</tr>
 
-### ✨ Fitur
+</table>
 
-- Sejarah Kerajaan Mataram
-- Galeri budaya digital
-- Informasi tradisi lokal
-- Peta interaktif wisata
-- Eksplorasi kuliner khas
-
-### 🛠️ Teknologi
-
-`HTML5`  
-`CSS3`  
-`JavaScript`  
-`Tailwind CSS`  
-`jQuery`
-
-### 👥 Tim
-
-Khresmupu • stseven77 • RolandMF
-
-</details>
+</div>
 
 
-<details>
-<summary><b>💰 KasKeuangan Khresmupu — Website Manajemen Keuangan (2026)</b></summary>
+
+---
+
+
+## 🏯 Jogja Culture
+
+
+<table>
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+Website edukasi budaya Yogyakarta.
+
+<br><br>
+
+Fitur:
+
+- Sejarah
+- Budaya
+- Kuliner
+- Destinasi
+- Peta Interaktif
 
 <br>
 
-Website pengelolaan keuangan digital untuk membantu pengguna mencatat pemasukan, pengeluaran, dan laporan keuangan.
+<b>Teknologi:</b>
 
-### 🎯 Tujuan
+HTML5 • CSS3 • JavaScript • Tailwind CSS
 
-Membuat sistem keuangan yang praktis, aman, dan mudah digunakan.
+</td>
 
-### ✨ Fitur
+</tr>
 
-- Manajemen transaksi
-- Dashboard keuangan
-- Analisis pemasukan dan pengeluaran
+</table>
+
+
+
+---
+
+
+## 💰 KasKeuangan Khresmupu
+
+
+<table>
+
+<tr>
+
+<td bgcolor="#0D1117">
+
+Website manajemen keuangan digital.
+
+<br><br>
+
+Fitur:
+
+- Transaksi
+- Dashboard
 - Database SQL
-- Monitoring anggaran
+- Analisis Keuangan
 
-### 🛠️ Teknologi
+<br>
 
-`HTML5`  
-`CSS3`  
-`JavaScript`  
-`PHP`  
-`SQL`
+<b>Teknologi:</b>
 
-### 👥 Tim
+PHP • SQL • JavaScript
 
-Khresmupu
+</td>
 
-</details>
+</tr>
+
+</table>
+
 
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=100&section=footer&text=Terima%20Kasih%20Atas%20Kunjungannya&fontSize=20&fontColor=10B981&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&height=100&section=footer&text=Khresmupu%20Creative%20Developer&fontSize=22&fontColor=10B981"/>
 
 </div>
