@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu&fontSize=45&fontColor=10B981&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=180&section=header&text=Khresmupu&fontSize=45&fontColor=10B981&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <br>
 
@@ -8,8 +8,8 @@
 
 <br>
 
-<p>
-✨ <i>"Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas."</i> ✨
+<p align="center">
+  <em>✨ "Mengembangkan pengalaman digital interaktif yang menggabungkan teknologi, edukasi, dan kreativitas." ✨</em>
 </p>
 
 </div>
@@ -21,92 +21,44 @@
 
 Halo! Saya **Khresna Mulia Putra**, atau lebih dikenal dengan nama **Khresmupu**, seorang **Creative Developer** dan mahasiswa **Program Studi Teknik Informatika Universitas Kristen Maranatha, Bandung**.
 
-Saya memiliki ketertarikan besar dalam mengembangkan teknologi digital yang menggabungkan:
+Saya memiliki ketertarikan yang besar dalam mengembangkan website yang tidak hanya berfungsi sebagai media informasi, tetapi juga mampu menghadirkan pengalaman belajar yang lebih menarik melalui pemanfaatan:
 
 - 🌐 Website Modern
-- 🎨 UI/UX Design
-- 🎬 Animasi 3D Interaktif
+- 🎬 Animasi 3D
+- 🎨 Visual Interaktif
 - 📚 Media Pembelajaran Digital
 - 🚀 Teknologi Web Modern
 
 
-Saya percaya bahwa teknologi bukan hanya sekadar kode, tetapi merupakan media untuk menyampaikan informasi agar lebih mudah dipahami, menarik, dan memberikan pengalaman yang bermakna.
+Bagi saya, teknologi bukan sekadar kumpulan baris kode.
 
-Selain pengembangan website, saya juga mengembangkan kreativitas melalui **produksi musik instrumental**.
+Teknologi merupakan media untuk menyampaikan informasi secara lebih efektif, mudah dipahami, dan memberikan pengalaman yang menyenangkan bagi pengguna.
 
-Bagi saya:
 
-> 💚 **"Pemrograman dan musik memiliki tujuan yang sama, yaitu menciptakan sesuatu yang memiliki makna melalui proses kreatif."**
+Selain aktif dalam pengembangan website, saya juga menyalurkan kreativitas melalui **produksi musik instrumental**.
+
+Saya percaya bahwa pemrograman dan musik memiliki tujuan yang sama, yaitu menyelesaikan permasalahan melalui pendekatan kreatif.
+
+
+> 💚 "Teknologi akan menjadi lebih bermakna apabila mampu membantu orang lain belajar, memahami, dan berkembang."
+
 
 ---
 
 # 🟢 🎯 Filosofi Pengembangan
 
 
-<table>
+<div align="center">
 
-<tr>
+| 🧠 Edukatif | ⚡ Interaktif | 📱 Responsif |
+| :---: | :---: | :---: |
+| Fokus pada pembelajaran | Melibatkan pengguna | Adaptif di berbagai layar |
 
-<td align="center">
+| 🎨 Desain Menarik | 🎯 Mudah Digunakan | 🚀 UX Optimal |
+| :---: | :---: | :---: |
+| Visual estetis & bersih | User-friendly UI | Pengalaman terbaik |
 
-## 🧠 Edukatif
-
-Membantu pengguna memahami informasi lebih mudah.
-
-</td>
-
-
-<td align="center">
-
-## ⚡ Interaktif
-
-Menghadirkan pengalaman yang melibatkan pengguna.
-
-</td>
-
-
-<td align="center">
-
-## 📱 Responsif
-
-Nyaman digunakan pada berbagai perangkat.
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center">
-
-## 🎨 Visual
-
-Mengutamakan desain modern dan menarik.
-
-</td>
-
-
-<td align="center">
-
-## 🚀 Modern
-
-Menggunakan teknologi terbaru.
-
-</td>
-
-
-<td align="center">
-
-## 🎯 UX
-
-Fokus pada pengalaman pengguna.
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 
 ---
@@ -118,17 +70,11 @@ Fokus pada pengalaman pengguna.
 
 <tr>
 
-<th>
-🌐 Web Development
-</th>
+<th>🌐 Web Development</th>
 
-<th>
-🎬 Animasi 3D
-</th>
+<th>🎬 Integrasi Animasi 3D</th>
 
-<th>
-🎵 Produksi Musik
-</th>
+<th>🎵 Produksi Musik Digital</th>
 
 </tr>
 
@@ -137,7 +83,219 @@ Fokus pada pengalaman pengguna.
 
 <td>
 
-Mengembangkan website modern dengan struktur kode rapi, responsif, dan mudah dikembangkan.
+Mengembangkan website modern dengan struktur kode yang rapi, responsif, dan mudah dipelihara.
 
 
 <b>Tech Stack:</b>
+# 🟢 🌟 Proyek Unggulan & Inovasi 3D
+
+
+<details>
+
+<summary><b>🏊 Tirta Sapa — Website Pembelajaran Renang Berbasis Animasi 3D (2025)</b></summary>
+
+<br>
+
+
+Website edukasi yang dikembangkan berdasarkan penelitian untuk membantu proses pembelajaran teknik renang melalui animasi tiga dimensi yang interaktif.
+
+
+## 🎯 Tujuan Utama
+
+Memberikan media pembelajaran visual interaktif sehingga siswa dapat memahami mekanika dan teknik renang dengan lebih mudah dan akurat.
+
+
+## ✨ Fitur Interaktif & 3D
+
+
+- 🏊 Visualisasi 3D berbagai gaya renang:
+
+  - Gaya Bebas
+  - Gaya Dada
+  - Gaya Punggung
+  - Gaya Kupu-kupu
+
+
+- 🎬 Animasi gerakan renang:
+  
+  - Freestyle
+  - Breaststroke
+  - Backstroke
+  - Butterfly
+  - Diving
+  - Floating
+  - Gliding
+  - Flip Turn
+
+
+- 🔄 Kontrol model:
+
+  - Rotate
+  - Zoom
+  - Interactive Preview
+
+
+- 📖 Penjelasan teknik secara bertahap (*step-by-step guidance*)
+
+
+## 🛠️ Teknologi
+
+# 🟢 📊 Statistik GitHub
+
+
+<div align="center">
+
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=khresmupu33&show_icons=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=10B981&bg_color=0D1117"
+width="48%"
+/>
+
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=khresmupu33&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117&stroke=10B981"
+width="48%"
+/>
+
+
+<br><br>
+
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=khresmupu33&bg_color=0D1117&color=10B981&line=10B981&point=059669&area=true&hide_border=true"
+width="95%"
+/>
+
+
+</div>
+
+
+---
+
+# 🟢 🌐 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://github.com/khresmupu33">
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
+
+</a>
+
+
+<a href="https://portofolio-khresmupu.netlify.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=10B981"/>
+
+</a>
+
+
+<a href="https://open.spotify.com/">
+
+<img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=10B981"/>
+
+</a>
+
+
+<a href="https://youtube.com/">
+
+<img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=10B981"/>
+
+</a>
+
+
+</div>
+
+
+---
+
+# 🟢 💚 My Development Principles
+
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 💻 Clean Code
+
+Membuat kode yang rapi, terstruktur, dan mudah dikembangkan.
+
+</td>
+
+
+<td align="center">
+
+## 🎨 Creative Design
+
+Menggabungkan teknologi dengan estetika visual.
+
+</td>
+
+
+<td align="center">
+
+## 🚀 Continuous Learning
+
+Terus berkembang mengikuti teknologi baru.
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+# 🟢 🧩 Currently Learning
+
+
+<div align="center">
+
+
+
+</div>
+
+
+---
+
+# 🟢 ✨ Quote
+
+
+<div align="center">
+
+
+> 💚 "Code is not only written to make machines understand,
+> but also created to help humans experience something better."
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,10B981,059669&customColorList=0,15,30&height=120&section=footer&text=Khresmupu%20Creative%20Developer&fontSize=25&fontColor=10B981&fontAlignY=50" width="100%"/>
+
+
+<br>
+
+
+### 💚 Thank You For Visiting My Profile 💚
+
+
+<br>
+
+
+<img src="https://komarev.com/ghpvc/?username=khresmupu33&color=10B981&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+
+</div>
