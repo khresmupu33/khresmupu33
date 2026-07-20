@@ -12,14 +12,18 @@
 
 ---
 <div align="center">
+       <!-- KOTAK HOLOGRAM MATRIX (Ganti LINK_FOTO_ANDA_DISINI dengan link URL gambar yang sudah di-upload ke GitHub) -->
+      <div align="center">
         <table width="100%" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 15px;">
           <tr>
             <td align="center">
               <p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 10px;">
                 <code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
               </p>
-              <!-- Menampilkan foto Anda dengan efek filter ala cyberpunk/hologram hijau -->
-              <img src="image_3b9ca3.jpg" width="220" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
+              
+              <!-- FOTO DENGAN FILTER HIJAU (Ganti URL di bawah dengan URL gambar online Anda) -->
+              <img src="LINK_FOTO_ANDA_DISINI" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
+              
               <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 10px;">
                 > Target: Khresna Mulia Putra (Creative Developer)<br>
                 > Visual Mode: Green Matrix Point-Cloud Hologram
