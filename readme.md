@@ -13,28 +13,24 @@
 ---
 <div align="center">
        
-
-<!-- KOTAK HOLOGRAM MATRIX -->
-      <div align="center">
-        <table width="100%" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 15px;">
-          <tr>
-            <td align="center">
-              <p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 10px;">
-                <code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
-              </p>
-              
-              <!-- FOTO DENGAN FILTER HIJAU -->
-              <img src="2572032_Khresna.jpg" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
-              
-              <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 10px;">
-                &gt; Target: Khresna Mulia Putra (Creative Developer)<br>
-                &gt; Visual Mode: Green Matrix Point-Cloud Hologram
-              </p>
-            </td>
-          </tr>
-        </table>
-      </div>
-
+<div align="center">
+  <table width="100%" style="background-color: #000000; border: 2px dashed #10B981; border-radius: 8px; padding: 15px;">
+    <tr>
+      <td align="center">
+        <p style="color: #10B981; font-family: monospace; font-size: 14px; margin-bottom: 10px;">
+          <code>[SYSTEM_STATUS: HOLOGRAM_MATRIX_INITIALIZED]</code>
+        </p>
+        
+        <img src="2572032_Khresna.jpg" width="200" style="border-radius: 50%; border: 3px solid #10B981; filter: drop-shadow(0 0 12px #10B981) sepia(100%) hue-rotate(60deg) saturate(500%);" alt="Khresmupu Hologram">
+        
+        <p style="color: #10B981; font-family: monospace; font-size: 12px; margin-top: 10px;">
+          &gt; Target: Khresna Mulia Putra (Creative Developer)<br>
+          &gt; Visual Mode: Green Matrix Point-Cloud Hologram
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 📖 Tentang Saya
 
 Halo! Saya **Khresna Mulia Putra**, atau lebih dikenal dengan nama **Khresmupu**, seorang **Creative Developer** dan mahasiswa **Program Studi Teknik Informatika Universitas Kristen Maranatha, Bandung**.
