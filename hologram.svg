@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="540" viewBox="0 0 600 540">
   <defs>
     <!-- 1. PENGISI GAMBAR (Pattern): Trik agar foto tampil utuh tanpa zoom -->
-      <g clip-path="url(#circle-mask)">
+       <g clip-path="url(#circle-mask)">
     <rect x="170" y="50" width="260" height="260" fill="#000000" />
     <!-- Ganti URL di bawah dengan link URL bersih dari browser jika gambar belum muncul -->
-    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="150" y="30" width="300" height="300" filter="url(#matrix-hologram)"  />
+    <image href="https://raw.githubusercontent.com/khresmupu33/khresmupu33/main/2572032_Khresna.jpg" x="150" y="30" width="300" height="300" filter="url(#matrix-hologram)" preserveAspectRatio="xMidYMid slice" />
   </g>
 
     <!-- 2. FILTER HIJAU MATRIKS: Diterapkan pada Pattern -->
