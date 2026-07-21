@@ -1,9 +1,4 @@
-<div align="center">
-    <img src="p.svg" width="220">
-</div>
-<div align="center">
-  <img src="2572032_Khresna.jpg" alt="Khresna Mulia Putra" width="160" height="160" style="border-radius: 50%; border: 4px solid #00ff66; box-shadow: 0 0 15px #00ff66; object-fit: cover;" />
-</div>
+
 <div align="center">
 
 # Halo, Saya Khresna Mulia Putra (Khresmupu)
