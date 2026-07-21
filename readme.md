@@ -12,8 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/khresmupu"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:khresnaputra@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/khresna-mulia-putra-339b97382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khresmupu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.instagram.com/khresmupu_coding/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -24,10 +25,7 @@
 * [Tentang Saya](#-tentang-saya)
 * [Bidang Keahlian](#-bidang-keeahlian-utama)
 * [Keahlian Teknis](#-keahlian-teknis--metrik-penguasaan)
-* [Sertifikat & Penghargaan](#-sertifikat)
 * [Proyek Unggulan](#-proyek-unggulan-utama)
-* [Proyek Lainnya](#-proyek-lainnya)
-* [Mari Berkolaborasi](#-mari-berkolaborasi)
 
 ---
 
@@ -45,12 +43,11 @@ Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen 
   * Digital Music Production
 
 ### 🌐 Profil Eksternal
-* [Music](https://digitalplatform.com) — Musik-musik yang telah dirilis pada platform digital.
-* [Swimcloud](https://www.swimcloud.com) — Catatan prestasi dalam dunia internasional.
-* [Chess](https://chess.com) — Catatan peringkat dalam setiap permainan.
-* [Github](https://github.com/khresmupu) — Hasil proyek tugas harian dan tugas besar selama kuliah.
-* [Olimpiadeku](https://olimpiadeku.com) — Riwayat kompetisi sains dan medali yang telah diraih dalam lomba materi dasar.
-* [Academia Profile](https://academia.edu) — Publikasi dan dokumentasi penelitian pengembangan website pembelajaran renang 3D serta karya ilmiah lainnya.
+* [Music](https://portofolio-khresmupu.netlify.app/musik/) — Musik-musik yang telah dirilis pada platform digital.
+* [Swimcloud](https://www.swimcloud.com/swimmer/1323287/) — Catatan prestasi dalam dunia internasional.
+* [Chess](https://www.chess.com/member/khresmupu) — Catatan peringkat dalam setiap permainan.
+* [Olimpiadeku](https://olimpiadeku.com/leaderboard/7adaf937-bb20-45bd-871d-9daccfe4f498) — Riwayat kompetisi sains dan medali yang telah diraih dalam lomba materi dasar.
+* [Academia Profile](https://independent.academia.edu/KMuliaPutra) — Publikasi dan dokumentasi penelitian pengembangan website pembelajaran renang 3D serta karya ilmiah lainnya.
 
 ---
 
@@ -104,30 +101,6 @@ Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen 
 
 ---
 
-## 🏆 Sertifikat & Piagam Penghargaan
-
-| Kategori | Tahun • Detail | Aksi |
-| :--- | :--- | :--- |
-| **Sertifikat** | 2024 • Festival Open Water Swimming Indonesia – Finisher | [Lihat File](https://example.com) |
-| **Sertifikat** | 2024 • Mathematics Olympiad (ONSA) – Gold Medalist | [Lihat File](https://example.com) |
-| **Sertifikat** | 2024 • Mathematics Olympiad (OAT) – Bronze Medal | [Lihat File](https://example.com) |
-| **Sertifikat** | 2025 • Computer Science • Code.org (Hour of Code: AI for Oceans) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2025 • Maranatha Christian University • FTRC (Seminar Sharing Alumni FTRC 2025) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2025 • The IO Foundation • Digital Technology (Talk: Architects of your future) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • Maranatha Christian University • LPAA (Festival Akademik) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • Maranatha Christian University • HMIF (Dev Guides Ganjil 25/26) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • Maranatha Christian University • LPAA (Public Lecture Beyond The Native Speaker) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • Universitas Kristen Maranatha • Direktorat Kemahasiswaan (Service Learning - Panitia) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2025 • Universitas Kristen Maranatha • Direktorat Kemahasiswaan (Wiratha Fest 2025 - Peserta) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • FTRC (The Dean's Outstanding List Award) | [Lihat File](https://example.com) |
-| **Sertifikat** | 2026 • AWS Academy (AWS Academy Graduate - Cloud Foundations) | [Lihat File](https://example.com) |
-| **Piagam** | 2024 • Mathematics Olympiad (ONSA) – Gold Medalist | [Lihat Piagam](https://example.com) |
-
-### 🤝 Kegiatan Sosial
-* **Service Learning FAMCELL 13** — Kegiatan sosial ke SDN Cibogo. [Lihat Lebih Detail →](https://example.com)
-
----
-
 ## 💼 Proyek Unggulan Utama
 
 <details>
@@ -139,7 +112,7 @@ Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen 
 * **Key Features:** Animasi Gaya Renang, Kontrol Interaktif, Deskripsi Teknik Detail.
 * **Development Team:** Khresmupu, andreasanandeto-web.
 * **Technology:** HTML / CSS / JS, Blender 3D.
-* **Links:** [Kunjungi Website](https://example.com) | [Baca Case Study](https://example.com)
+* **Links:** [Kunjungi Website](https://tirtasapa.netlify.app/) | [Baca Case Study](https://www.academia.edu/165429827/PENGEMBANGAN_WEBSITE_PEMBELAJARAN_RENANG_3D)
 </details>
 
 <details>
@@ -151,7 +124,7 @@ Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen 
 * **Key Features:** Interactive Mataram History, Cultural Heritage Catalog, Culinary Exploration Guide.
 * **Development Team:** Khresmupu, stseven77, RolandMF.
 * **Technology:** HTML / CSS / JS, Tailwind CSS, jQuery.
-* **Links:** [Kunjungi Website](https://example.com)
+* **Links:** [Kunjungi Website](https://jogjaculture.netlify.app/)
 </details>
 
 <details>
@@ -163,48 +136,8 @@ Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen 
 * **Key Features:** Pencatatan Arus Kas Berbasis Database, Rekapitulasi & Laporan Otomatis, Manajemen Data Transaksi Aman.
 * **Development Team:** Tim Pengembang Internal / Mandiri.
 * **Technology:** HTML / CSS / JS, PHP, SQL.
-* **Links:** [Kunjungi Website](https://example.com)
+* **Links:** [Kunjungi Website](https://kaskeuangan.wuaze.com/)
 </details>
-
----
-
-## 📂 Proyek Lainnya
-
-* **Killer and Gadfly (Featured)** — Game arkade dengan Conditional Logic untuk pengejaran musuh otomatis, koordinat tracking, dan sinkronisasi audio. ([Unduh](https://example.com))
-* **Khresmupu Music Promo** — Website promosi pertama yang menampilkan informasi lagu, visual branding, dan konsep personal branding musisi. ([Lihat Proyek](https://example.com))
-* **Penyewaan Lapangan** — Program berbasis Python untuk mengelola manajemen penyewaan lapangan, kapasitas, dan harga. ([Lihat Proyek](https://example.com))
-* **Kasir Laundry ASEK** — Aplikasi CLI berbasis Python untuk manajemen laundry: input order, tracking status cucian, sistem pembayaran aman, hingga rekap keuangan harian. ([Lihat Proyek](https://example.com))
-* **ULTAH 3D (Featured)** — Proyek animasi 3D interaktif yang dirancang untuk perayaan ulang tahun, menampilkan elemen visual tiga dimensi yang kreatif dan dinamis. ([Lihat Proyek](https://example.com))
-* **Materi Sopan Santun (Service Learning)** — Kumpulan materi pembelajaran mengenai etika sopan santun yang dikemas dalam kerangka program Service Learning. ([Lihat Proyek](https://example.com))
-* **Materi AWS Shield** — Informasi mendalam mengenai AWS Shield, layanan perlindungan DDoS terkelola yang menjaga aplikasi tetap berjalan di AWS. ([Lihat Proyek](https://example.com))
-* **Chatbot Aturan** — Chatbot interaktif berbasis Scratch untuk aturan universitas. ([Lihat Proyek](https://example.com))
-* **Keuangan Kas versi awal (Featured)** — Aplikasi web manajemen keuangan untuk mencatat pemasukan dan pengeluaran harian dengan antarmuka sederhana dan mudah dipahami pengguna non-teknis. ([Lihat Proyek](https://example.com))
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khresmupu&show_icons=true&theme=purple-gradient&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khresmupu&theme=purple-gradient&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khresmupu&layout=compact&theme=purple-gradient&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Mari Berkolaborasi
-
-Punya proyek menarik? Tertarik untuk berkolaborasi? Saya terbuka untuk proyek di bidang **Web Development**, **3D Integration**, maupun **Music Production**.
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
-  <a href="mailto:khresnaputra@gmail.com"><img src="https://img.shields.io/badge/Gmail-Let's_Talk-D14836?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
-  <a href="https://github.com/khresmupu"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</p>
 
 ---
 
