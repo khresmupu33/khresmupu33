@@ -7,14 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Collaborator-purple?style=for-the-badge&logo=appveyor" alt="Status" />
   <img src="https://img.shields.io/badge/University-UK%20Maranatha-blueviolet?style=for-the-badge&logo=bookstack" alt="Maranatha" />
-  <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-indigo?style=for-the-badge&logo=googlemaps" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/khresmupu"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/khresna-mulia-putra-339b97382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khresmupu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.instagram.com/khresmupu_coding/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
 
 </div>
