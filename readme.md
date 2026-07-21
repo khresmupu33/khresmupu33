@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="hologram.svg" width="220">
+    <img src="p.svg" width="220">
 </div>
 <div align="center">
 
