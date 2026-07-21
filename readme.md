@@ -1,9 +1,10 @@
 <div align="center">
-
-# Halo, Saya Khresna Mulia Putra (Khresmupu)
-<div align="center">
     <img src="hologram.svg" width="220">
 </div>
+<div align="center">
+
+# Halo, Saya Khresna Mulia Putra (Khresmupu)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F200&center=true&vCenter=true&width=600&height=50&lines=Web+Developer+%7C+Creative+Developer;3D+Web+Integration+Specialist;Digital+Music+Producer)](https://git.io/typing-svg)
 
 <p align="center">
