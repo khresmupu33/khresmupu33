@@ -172,7 +172,7 @@ PHP / SQL             ██████████░░░░░░░░░�
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=white)](https://jogjaculture.netlify.app/)
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://jogjaculture.netlify.app/)
 
 </div>
 
@@ -247,8 +247,9 @@ Experience
 
 </div>
 
-
 ---
+
+
 
 # 🟢 Currently Building
 
