@@ -172,7 +172,7 @@ PHP / SQL             ██████████░░░░░░░░░�
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://jogjaculture.netlify.app/)
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=white)](https://jogjaculture.netlify.app/)
 
 </div>
 
@@ -247,35 +247,6 @@ Experience
 
 </div>
 
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khresmupu33&show_icons=true&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0D1117" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khresmupu33&layout=compact&hide_border=true&title_color=00FF66&text_color=ffffff&bg_color=0D1117" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khresmupu33&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/khresmupu33/khresmupu33/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
