@@ -201,6 +201,7 @@ PHP / SQL             ██████████░░░░░░░░░�
 <div align="center">
 
 [![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://kaskeuangan.wuaze.com/)
+[![Case Study](https://img.shields.io/badge/📖%20Case%20Study-00FF66?style=for-the-badge\&logoColor=black)](https://www.academia.edu/171337889/Aplikasi_Pencatatan_Keuangan_Kas_Berbasis_Web_Struktur_and_Mutasi_Ganda_Studi_Kasus_KasKeuangan_Khresmupu?source=swp_share)
 
 </div>
 
