@@ -1,143 +1,328 @@
-
 <div align="center">
 
-# Halo, Saya Khresna Mulia Putra (Khresmupu)
+# 🟢 KHRESMUPU
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F200&center=true&vCenter=true&width=600&height=50&lines=Web+Developer+%7C+Creative+Developer;3D+Web+Integration+Specialist;Digital+Music+Producer)](https://git.io/typing-svg)
+### Khresna Mulia Putra
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Collaborator-purple?style=for-the-badge&logo=appveyor" alt="Status" />
-  <img src="https://img.shields.io/badge/University-UK%20Maranatha-blueviolet?style=for-the-badge&logo=bookstack" alt="Maranatha" />
-</p>
+**Creative Developer · Web Developer · 3D Web Integrator · Digital Music Producer**
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khresmupu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=50&lines=Building+Digital+Experiences;Web+Development+%7C+3D+Integration;Creative+Technology+%7C+Digital+Music;Code+%2B+Design+%2B+Storytelling" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CREATIVE%20DEVELOPER-00FF66?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/WEB%20DEVELOPER-00FF66?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/3D%20WEB-00FF66?style=for-the-badge&logo=blender&logoColor=black" />
+<img src="https://img.shields.io/badge/MUSIC-00FF66?style=for-the-badge&logo=musicbrainz&logoColor=black" />
+
+<br><br>
+
+<a href="https://portofolio-khresmupu.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00FF66?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://github.com/khresmupu33">
+<img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+<a href="mailto:khresmupu@gmail.com">
+<img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 Navigasi Cepat
-* [Tentang Saya](#-tentang-saya)
-* [Bidang Keahlian](#-bidang-keeahlian-utama)
-* [Keahlian Teknis](#-keahlian-teknis--metrik-penguasaan)
-* [Proyek Unggulan](#-proyek-unggulan-utama)
+## 🟢 `$ whoami`
+
+> **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
+
+Saya adalah mahasiswa **Universitas Kristen Maranatha** yang memiliki ketertarikan pada pengembangan website, integrasi animasi 3D, UI/UX, dan produksi musik digital.
+
+Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga harus mampu **menyampaikan pengalaman dan cerita**.
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   CODE        → Logic & Function                    │
+│   DESIGN      → Visual & Experience                 │
+│   3D          → Interaction & Education             │
+│   MUSIC       → Emotion & Storytelling              │
+│                                                     │
+│   = CREATIVE DIGITAL EXPERIENCE                     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🚀 Tentang Saya
+## 🟩 `> Current Focus`
 
-Saya adalah seorang **Creative Developer** dan mahasiswa di Universitas Kristen Maranatha yang bergerak di persimpangan antara teknologi digital dan ekspresi kreatif. Fokus utama saya adalah mentransformasi penyampaian materi konvensional menjadi pengalaman yang interaktif dan intuitif melalui integrasi animasi 3D pada web.
-
-> *"Di luar baris kode, saya mengeksplorasi dunia audio sebagai sarana bercerita. Bagi saya, baik coding maupun musik adalah alat untuk memecahkan masalah: yang satu melalui logika fungsional, yang lainnya melalui resonansi emosional. Melalui khresmupu, saya berkomitmen menciptakan solusi digital yang tidak hanya bekerja dengan baik, tetapi juga memiliki nilai edukatif dan estetika yang mendalam."*
-
-### 🎓 Pendidikan & Fokus Utama
-* **Institusi:** Universitas Kristen Maranatha (Bandung, Indonesia)
-* **Fokus Utama:** 
-  * Front-End Development
-  * 3D Web Integration
-  * Digital Music Production
-
-### 🌐 Profil Eksternal
-* [Music](https://portofolio-khresmupu.netlify.app/musik/) — Musik-musik yang telah dirilis pada platform digital.
-* [Swimcloud](https://www.swimcloud.com/swimmer/1323287/) — Catatan prestasi dalam dunia internasional.
-* [Chess](https://www.chess.com/member/khresmupu) — Catatan peringkat dalam setiap permainan.
-* [Olimpiadeku](https://olimpiadeku.com/leaderboard/7adaf937-bb20-45bd-871d-9daccfe4f498) — Riwayat kompetisi sains dan medali yang telah diraih dalam lomba materi dasar.
-* [Academia Profile](https://independent.academia.edu/KMuliaPutra) — Publikasi dan dokumentasi penelitian pengembangan website pembelajaran renang 3D serta karya ilmiah lainnya.
+```diff
++ Web Development
++ Front-End Development
++ UI / UX Design
++ 3D Web Integration
++ Blender 3D
++ PHP & SQL
++ Digital Music Production
++ Creative Technology
+```
 
 ---
 
-## 🛠 Bidang Keahlian Utama
-
-<table>
-<tr>
-  <td width="33%" align="center"><b>🌐 Web Development</b></td>
-  <td width="33%" align="center"><b>🎬 Integrasi Animasi 3D</b></td>
-  <td width="33%" align="center"><b>🎵 Produksi Musik Digital</b></td>
-</tr>
-<tr>
-  <td>
-    Mengembangkan website modern yang responsif dengan struktur kode yang rapi, interaktif, serta mudah dipelihara.<br><br>
-    <b>Tech Stack:</b><br>
-    HTML5 • CSS3 • JavaScript • Tailwind CSS • jQuery • PHP • SQL
-  </td>
-  <td>
-    Menggabungkan aset tiga dimensi hasil pemodelan Blender ke dalam website untuk media pembelajaran interaktif.<br><br>
-    <b>Pengalaman:</b><br>
-    • Animasi edukasi 3D<br>
-    • Visualisasi objek interaktif<br>
-    • Integrasi multimedia web<br>
-    • Optimasi performa render
-  </td>
-  <td>
-    Menciptakan musik instrumental orisinal dengan pendekatan storytelling untuk membangun suasana.<br><br>
-    <b>Perangkat & Alat:</b><br>
-    BandLab • Walk Band<br>
-    Komposisi instrumental • Soundscape
-  </td>
-</tr>
-</table>
-
----
-
-## 📊 Keahlian Teknis & Metrik Penguasaan
-
-* **Web Frontend & Responsive Design** — `Advanced • 80%`  
-  Menguasai HTML, CSS, JavaScript, serta perancangan Responsive Web Design yang optimal dan adaptif di semua ukuran layar perangkat.
-* **UI / UX Design** — `Advanced • 80%`  
-  Merancang antarmuka pengguna yang bersih, estetis, dan berpusat pada kenyamanan navigasi (user-friendly).
-* **Backend (PHP) & SQL Database** — `Intermediate • 50%`  
-  Berpengalaman dalam pengembangan fungsionalitas sisi server menggunakan PHP serta perancangan basis data relasional SQL.
-* **Blender 3D & 3D Web** — `Advanced • 75%`  
-  Membuat pemodelan objek dan animasi 3D untuk diintegrasikan ke dalam ekosistem web interaktif sebagai media edukasi.
-* **Music Production** — `Creative • 65%`  
-  Menciptakan komposisi musik instrumental dengan pendekatan emosional dan storytelling menggunakan BandLab / Walk Band.
-* **Problem Solving & Logical Thinking** — `Analytical • 70%`  
-  Memiliki kemampuan berpikir logis dalam menganalisis masalah, menyusun alur sistem, serta mengoptimalkan struktur program agar efektif.
-
----
-
-## 💼 Proyek Unggulan Utama
-
-<details>
-<summary><b>🏊‍♂️ 3D Swimming Learning Website (Tirta Sapa) - 2025</b></summary>
-
-> Website pembelajaran renang berbasis animasi 3D yang dikembangkan melalui riset mendalam.
-
-* **Purpose:** Menyediakan media edukasi visual yang interaktif dan mudah dipahami untuk mempelajari berbagai teknik dan gaya renang secara tepat.
-* **Key Features:** Animasi Gaya Renang, Kontrol Interaktif, Deskripsi Teknik Detail.
-* **Development Team:** Khresmupu, andreasanandeto-web.
-* **Technology:** HTML / CSS / JS, Blender 3D.
-* **Links:** [Kunjungi Website](https://tirtasapa.netlify.app/) | [Baca Case Study](https://www.academia.edu/165429827/PENGEMBANGAN_WEBSITE_PEMBELAJARAN_RENANG_3D)
-</details>
-
-<details>
-<summary><b>🏛️ Cultural Education Website (Jogja Culture) - 2026</b></summary>
-
-> Platform web interaktif yang dirancang untuk memperkenalkan dan melestarikan ragam kebudayaan Yogyakarta.
-
-* **Purpose:** Menyediakan panduan digital interaktif mengenai wisata, kekayaan budaya, jejak sejarah, serta peta navigasi kawasan Jogjakarta secara informatif dan menarik.
-* **Key Features:** Interactive Mataram History, Cultural Heritage Catalog, Culinary Exploration Guide.
-* **Development Team:** Khresmupu, stseven77, RolandMF.
-* **Technology:** HTML / CSS / JS, Tailwind CSS, jQuery.
-* **Links:** [Kunjungi Website](https://jogjaculture.netlify.app/)
-</details>
-
-<details>
-<summary><b>💰 Financial Management Web (KasKeuangan Khresmupu) - 2026</b></summary>
-
-> Website pencatatan dan pengelolaan kas keuangan yang memudahkan pengguna dalam memantau pemasukan dan pengeluaran.
-
-* **Purpose:** Menyediakan sistem manajemen dan pencatatan keuangan kas digital yang aman berbasis database untuk memantau transaksi secara akurat dan real-time.
-* **Key Features:** Pencatatan Arus Kas Berbasis Database, Rekapitulasi & Laporan Otomatis, Manajemen Data Transaksi Aman.
-* **Development Team:** Tim Pengembang Internal / Mandiri.
-* **Technology:** HTML / CSS / JS, PHP, SQL.
-* **Links:** [Kunjungi Website](https://kaskeuangan.wuaze.com/)
-</details>
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
-  <p>© 2026 Portfolio Khresmupu. All Rights Reserved.</p>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,jquery,php,mysql" />
+
+### 🎨 Design & 3D
+
+<img src="https://skillicons.dev/icons?i=blender,figma" />
+
+### ⚙️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+
+</div>
+
+---
+
+## 📊 Skill Matrix
+
+| Skill                    | Level | Focus                                       |
+| ------------------------ | :---: | ------------------------------------------- |
+| 🌐 Front-End Development | `80%` | HTML · CSS · JavaScript · Responsive Design |
+| 🎨 UI / UX Design        | `80%` | Interface · Layout · User Experience        |
+| 🧊 Blender & 3D Web      | `75%` | Modeling · Animation · Web Integration      |
+| 🧠 Problem Solving       | `70%` | Logic · System Flow · Optimization          |
+| 🎵 Music Production      | `65%` | Instrumental · Soundscape · Storytelling    |
+| 🗄️ PHP & SQL            | `50%` | Backend · Database · CRUD                   |
+
+```text
+Frontend              ████████████████░░░░ 80%
+UI / UX               ████████████████░░░░ 80%
+Blender / 3D Web      ███████████████░░░░░ 75%
+Problem Solving       ██████████████░░░░░░ 70%
+Music Production      █████████████░░░░░░░ 65%
+PHP / SQL             ██████████░░░░░░░░░░ 50%
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🏊‍♂️ Tirta Sapa
+
+### `3D Swimming Learning Website`
+
+> Interactive educational website that combines **web technology + Blender 3D animation** to create a visual swimming-learning experience.
+
+**Highlights**
+
+* 🏊 Interactive swimming technique animations
+* 🎬 3D educational visualization
+* 🎮 Interactive controls
+* 📚 Detailed technique explanations
+* 📱 Responsive web interface
+* ⚡ Optimized web experience
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Blender 3D`
+
+**Team**
+
+`Khresmupu` · `andreasanandeto-web`
+
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://tirtasapa.netlify.app/)
+[![Case Study](https://img.shields.io/badge/📖%20Case%20Study-00FF66?style=for-the-badge\&logoColor=black)](https://www.academia.edu/165429827/PENGEMBANGAN_WEBSITE_PEMBELAJARAN_RENANG_3D)
+
+</div>
+
+---
+
+## 🏛️ Jogja Culture
+
+### `Interactive Cultural Education Website`
+
+> Digital platform designed to introduce and preserve the cultural heritage of **Yogyakarta** through an interactive web experience.
+
+**Highlights**
+
+* 🏯 Mataram history exploration
+* 🗺️ Interactive cultural map
+* 🍜 Culinary exploration
+* 🏛️ Cultural heritage catalog
+* 📖 Educational content
+* 🎨 Modern interactive interface
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Tailwind CSS` `jQuery`
+
+**Team**
+
+`Khresmupu` · `stseven77` · `RolandMF`
+
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://jogjaculture.netlify.app/)
+
+</div>
+
+---
+
+## 💰 KasKeuangan Khresmupu
+
+### `Financial Management Web Application`
+
+> Web-based financial management system designed to help users record, organize, and monitor cash flow digitally.
+
+**Highlights**
+
+* 💵 Income & expense recording
+* 📊 Financial recap
+* 🗄️ Database-based transactions
+* 🔐 Secure data management
+* 📑 Automated reports
+* 🔎 Transaction history
+* 📈 Financial monitoring
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-00FF66?style=for-the-badge\&logoColor=black)](https://kaskeuangan.wuaze.com/)
+
+</div>
+
+---
+
+# 🎵 Beyond Code
+
+Programming isn't my only way of creating.
+
+I also create **original instrumental music** under the name **Khresmupu**.
+
+My approach to music is similar to programming:
+
+```text
+Music
+  ↓
+Emotion
+  ↓
+Story
+  ↓
+Atmosphere
+  ↓
+Experience
+```
+
+🎧 **Digital Music**
+
+[![Music Portfolio](https://img.shields.io/badge/🎵%20Listen%20to%20My%20Music-00FF66?style=for-the-badge\&logoColor=black)](https://portofolio-khresmupu.netlify.app/musik/)
+
+---
+
+# 🌐 Explore My Profiles
+
+<div align="center">
+
+| Platform           | Purpose                             |
+| ------------------ | ----------------------------------- |
+| 🌐 **Portfolio**   | Web development & creative projects |
+| 🎵 **Music**       | Original instrumental compositions  |
+| 🏊 **SwimCloud**   | Swimming achievements               |
+| ♟️ **Chess.com**   | Chess activity                      |
+| 🏆 **Olimpiadeku** | Competition & achievement records   |
+| 📚 **Academia**    | Research & academic documentation   |
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khresmupu33&show_icons=true&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0D1117" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khresmupu33&layout=compact&hide_border=true&title_color=00FF66&text_color=ffffff&bg_color=0D1117" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khresmupu33&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/khresmupu33/khresmupu33/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🟢 Currently Building
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   💻 Web Applications                        │
+│   🎨 Interactive Digital Experiences         │
+│   🧊 3D Web Learning Media                  │
+│   💰 Financial Technology for UMKM           │
+│   🎵 Original Instrumental Music             │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in web development, creative technology, 3D web, or digital projects?**
+
+Let's build something meaningful.
+
+<br>
+
+<a href="https://portofolio-khresmupu.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00FF66?style=for-the-badge&logoColor=black"/>
+</a>
+
+<a href="mailto:khresmupu@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20Contact%20Me-00FF66?style=for-the-badge&logoColor=black"/>
+</a>
+
+<a href="https://github.com/khresmupu33">
+<img src="https://img.shields.io/badge/🐙%20GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
+
+`Code • Create • Explore • Improve`
+
+<br>
+
+**© 2026 Khresmupu**
+
 </div>
