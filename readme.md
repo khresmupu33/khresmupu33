@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-# 🟢 KHRESMUPU
+# 🟢 KHRESMUPU 🟢
 
 ### **Khresna Mulia Putra**
 
