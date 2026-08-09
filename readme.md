@@ -3,14 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header" width="100%" />
 </p>
 <div align="center">
-
 # 🟢 KHRESMUPU
 
 ### Khresna Mulia Putra
 
 **Creative Developer · Web Developer · 3D Web Integrator · Digital Music Producer**
 
-<br>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=50&lines=Building+Digital+Experiences;Web+Development+%7C+3D+Integration;Creative+Technology+%7C+Digital+Music;Code+%2B+Design+%2B+Storytelling" alt="Typing SVG" />
 
