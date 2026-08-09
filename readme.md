@@ -59,24 +59,7 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 <br>
 
-<div align="center">
 
-```text
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│   🟢 CODE       → Logic & Function                  │
-│   🟢 DESIGN     → Visual & Experience               │
-│   🟢 3D         → Interaction & Education           │
-│   🟢 MUSIC      → Emotion & Storytelling             │
-│                                                     │
-│              ═══════════════════════                │
-│                                                     │
-│        🟢 CREATIVE DIGITAL EXPERIENCE              │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
-
-</div>
 
 ---
 
@@ -356,15 +339,7 @@ My approach to music is similar to programming:
 <img src="https://img.shields.io/badge/🐙_GITHUB-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41"/>
 </a>
 
-<br><br>
-
-```text
-┌───────────────────────────────────────────┐
-│                                           │
-│       CODE • CREATE • EXPLORE • IMPROVE   │
-│                                           │
-└───────────────────────────────────────────┘
-```
+<br>
 
 <br>
 
