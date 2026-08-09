@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76c7c0&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header" width="100%" />
 </p>
 <div align="center">
 
@@ -379,5 +379,5 @@ My approach to music is similar to programming:
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=footer" width="100%" />
 </p>
