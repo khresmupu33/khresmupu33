@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header" width="100%" />
+</p>
 <div align="center">
 
 # 🟢 KHRESMUPU
@@ -375,3 +378,6 @@ My approach to music is similar to programming:
 **© 2026 KHRESMUPU**
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" width="100%" />
+</p>
