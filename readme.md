@@ -1,3 +1,39 @@
+
+
+# 📡 Scan My Profile
+
+<div align="center">
+
+### `> Scan to explore my digital world`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fgithub.com%2Fkhresmupu33" width="220" alt="QR Code Khresmupu">
+
+<br>
+
+**📱 Scan the QR Code**
+
+`GitHub Profile`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-khresmupu33-00ff00?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/khresmupu33)
+
+</div>
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       📡 SCAN → CONNECT → EXPLORE            │
+│                                              │
+│       GitHub                                 │
+│       Portfolio                              │
+│       Creative Projects                      │
+│       Digital Experiments                    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+
 <div align="center">
 
 # 🟢 KHRESMUPU
