@@ -37,6 +37,11 @@
 
 ## 🟢 `$ whoami`
 
+<div align="center">
+
+<img src="./assets/khresmupu-profile-scan.svg" width="100%" alt="Khresmupu Profile Scan">
+
+</div>
 > **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
 
 Saya adalah mahasiswa **Universitas Kristen Maranatha** yang memiliki ketertarikan pada pengembangan website, integrasi animasi 3D, UI/UX, dan produksi musik digital.
