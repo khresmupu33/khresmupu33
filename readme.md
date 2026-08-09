@@ -14,14 +14,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=55&lines=%3E+Building+Digital+Experiences;%3E+Web+Development+%2B+3D+Integration;%3E+Creative+Technology+%2B+Digital+Music;%3E+Code+%2B+Design+%2B+Storytelling" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/●_CREATIVE_DEVELOPER-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/●_WEB_DEVELOPER-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/●_3D_WEB-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/●_MUSIC-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
 
-<br><br>
+<br>
 
 <a href="https://portofolio-khresmupu.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/✉️_EMAIL-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
 </a>
 
-<br><br>
+<br>
 
 `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
