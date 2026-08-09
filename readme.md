@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/3D%20WEB-00FF66?style=for-the-badge&logo=blender&logoColor=black" />
 <img src="https://img.shields.io/badge/MUSIC-00FF66?style=for-the-badge&logo=musicbrainz&logoColor=black" />
 
-<br><br>
+
 
 <a href="https://portofolio-khresmupu.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF66?style=for-the-badge&logoColor=black" />
