@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=header" width="100%" />
 </p>
@@ -211,4 +211,4 @@ PHP / SQL         ██████████░░░░░░░░░░  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=footer" width="100%" />
 </p>
-```
+
