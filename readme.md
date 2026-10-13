@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=header" width="100%" />
 </p>
+
 <div align="center">
 
-# 🟢 KHRESMUPU 🟢
+# ⚪ KHRESMUPU ⚪
 
 ### **Khresna Mulia Putra**
 
@@ -12,27 +13,27 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=55&lines=%3E+Building+Digital+Experiences;%3E+Web+Development+%2B+3D+Integration;%3E+Creative+Technology+%2B+Digital+Music;%3E+Code+%2B+Design+%2B+Storytelling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=D1D5DB&center=true&vCenter=true&width=800&height=55&lines=%3E+Building+Digital+Experiences;%3E+Web+Development+%2B+3D+Integration;%3E+Creative+Technology+%2B+Digital+Music;%3E+Code+%2B+Design+%2B+Storytelling" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/●_CREATIVE_DEVELOPER-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/●_WEB_DEVELOPER-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/●_3D_WEB-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/●_MUSIC-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/●_CREATIVE_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/●_WEB_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/●_3D_WEB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/●_MUSIC-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
 
 <br>
 
 <a href="https://portofolio-khresmupu.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
 </a>
 
 <a href="https://github.com/khresmupu33">
-<img src="https://img.shields.io/badge/🐙_GITHUB-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/🐙_GITHUB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
 </a>
 
 <a href="mailto:khresmupu@gmail.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/✉️_EMAIL-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
 </a>
 
 <br>
@@ -41,7 +42,7 @@
 
 </div>
 
-# 🟢 `> whoami`
+# ⚪ `> whoami`
 
 <div align="center">
 
@@ -51,7 +52,7 @@
 
 <br>
 
-> 🟢 **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
+> ⚪ **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
 
 Saya adalah mahasiswa **Universitas Kristen Maranatha** yang memiliki ketertarikan pada pengembangan website, integrasi animasi 3D, UI/UX, dan produksi musik digital.
 
@@ -59,11 +60,9 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 <br>
 
-
-
 ---
 
-# 🟩 `> CURRENT_FOCUS`
+# ⚪ `> CURRENT_FOCUS`
 
 ```diff
 + WEB DEVELOPMENT
@@ -78,7 +77,7 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 ---
 
-# 🟢 `> TECH_STACK`
+# ⚪ `> TECH_STACK`
 
 <div align="center">
 
@@ -100,24 +99,24 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 <br><br>
 
-`🟢 HTML` `🟢 CSS` `🟢 JAVASCRIPT` `🟢 PHP` `🟢 MYSQL`
-`🟢 TAILWIND` `🟢 JQUERY` `🟢 BLENDER` `🟢 FIGMA`
-`🟢 GIT` `🟢 GITHUB` `🟢 VSCODE` `🟢 NETLIFY`
+`⚪ HTML` `⚪ CSS` `⚪ JAVASCRIPT` `⚪ PHP` `⚪ MYSQL`
+`⚪ TAILWIND` `⚪ JQUERY` `⚪ BLENDER` `⚪ FIGMA`
+`⚪ GIT` `⚪ GITHUB` `⚪ VSCODE` `⚪ NETLIFY`
 
 </div>
 
 ---
 
-# 🟢 `> SKILL_MATRIX`
+# ⚪ `> SKILL_MATRIX`
 
-| 🟢 Skill                     | Level | Focus                                       |
-| :--------------------------- | :---: | :------------------------------------------ |
+| ⚪ Skill | Level | Focus |
+| :--- | :---: | :--- |
 | 🌐 **Front-End Development** | `80%` | HTML · CSS · JavaScript · Responsive Design |
-| 🎨 **UI / UX Design**        | `80%` | Interface · Layout · User Experience        |
-| 🧊 **Blender & 3D Web**      | `75%` | Modeling · Animation · Web Integration      |
-| 🧠 **Problem Solving**       | `70%` | Logic · System Flow · Optimization          |
-| 🎵 **Music Production**      | `65%` | Instrumental · Soundscape · Storytelling    |
-| 🗄️ **PHP & SQL**            | `50%` | Backend · Database · CRUD                   |
+| 🎨 **UI / UX Design** | `80%` | Interface · Layout · User Experience |
+| 🧊 **Blender & 3D Web** | `75%` | Modeling · Animation · Web Integration |
+| 🧠 **Problem Solving** | `70%` | Logic · System Flow · Optimization |
+| 🎵 **Music Production** | `65%` | Instrumental · Soundscape · Storytelling |
+| 🗄️ **PHP & SQL** | `50%` | Backend · Database · CRUD |
 
 <br>
 
@@ -130,43 +129,41 @@ MUSIC PRODUCTION  █████████████░░░░░░░  
 PHP / SQL         ██████████░░░░░░░░░░  50%
 ```
 
-
-
 ---
 
-# 🟢 `> EXPLORE_MY_PROFILES`
+# ⚪ `> EXPLORE_MY_PROFILES`
 
 <div align="center">
 
-| 🟢 Platform        | Purpose                             |
-| :----------------- | :---------------------------------- |
-| 🌐 **Portfolio**   | Web development & creative projects |
-| 🎵 **Music**       | Original instrumental compositions  |
-| 🏊 **SwimCloud**   | Swimming achievements               |
-| ♟️ **Chess.com**   | Chess activity                      |
-| 🏆 **Olimpiadeku** | Competition & achievement records   |
-| 📚 **Academia**    | Research & academic documentation   |
+| ⚪ Platform | Purpose |
+| :--- | :--- |
+| 🌐 **Portfolio** | Web development & creative projects |
+| 🎵 **Music** | Original instrumental compositions |
+| 🏊 **SwimCloud** | Swimming achievements |
+| ♟️ **Chess.com** | Chess activity |
+| 🏆 **Olimpiadeku** | Competition & achievement records |
+| 📚 **Academia** | Research & academic documentation |
 
 </div>
 
 ---
 
-# 🟢 `> CURRENTLY_BUILDING`
+# ⚪ `> CURRENTLY_BUILDING`
 
 <div align="center">
 
 ```text
 ╭────────────────────────────────────────────────╮
 │                                                │
-│  🟢 WEB APPLICATIONS                           │
+│  ⚪ WEB APPLICATIONS                           │
 │                                                │
-│  🟢 INTERACTIVE DIGITAL EXPERIENCES            │
+│  ⚪ INTERACTIVE DIGITAL EXPERIENCES            │
 │                                                │
-│  🟢 3D WEB LEARNING MEDIA                      │
+│  ⚪ 3D WEB LEARNING MEDIA                      │
 │                                                │
-│  🟢 FINANCIAL TECHNOLOGY FOR UMKM              │
+│  ⚪ FINANCIAL TECHNOLOGY FOR UMKM              │
 │                                                │
-│  🟢 ORIGINAL INSTRUMENTAL MUSIC                │
+│  ⚪ ORIGINAL INSTRUMENTAL MUSIC                │
 │                                                │
 ╰────────────────────────────────────────────────╯
 ```
@@ -175,7 +172,7 @@ PHP / SQL         ██████████░░░░░░░░░░  
 
 ---
 
-# 🟢 `> LET'S_CONNECT`
+# ⚪ `> LET'S_CONNECT`
 
 <div align="center">
 
@@ -186,26 +183,24 @@ PHP / SQL         ██████████░░░░░░░░░░  
 <br>
 
 <a href="https://portofolio-khresmupu.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
 </a>
 
 <a href="mailto:khresmupu@gmail.com">
-<img src="https://img.shields.io/badge/✉️_CONTACT_ME-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/✉️_CONTACT_ME-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
 </a>
 
 <a href="https://github.com/khresmupu33">
-<img src="https://img.shields.io/badge/🐙_GITHUB-00FF41?style=for-the-badge&labelColor=001A08&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/🐙_GITHUB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
 </a>
 
-<br>
+<br><br>
 
-<br>
+`⚪ SYSTEM STATUS: ONLINE`
 
-`🟢 SYSTEM STATUS: ONLINE`
+`⚪ CREATIVITY: ACTIVE`
 
-`🟢 CREATIVITY: ACTIVE`
-
-`🟢 BUILDING: CONTINUOUS`
+`⚪ BUILDING: CONTINUOUS`
 
 <br>
 
@@ -213,8 +208,6 @@ PHP / SQL         ██████████░░░░░░░░░░  
 
 </div>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=footer" width="100%" />
 </p>
