@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="khresmupu-profile-scan.svg" width="100%" alt="Khresmupu Profile Scan">
+
 
 </div>
 
