@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7280&height=120&section=header&fontColor=F3F4F6" width="100%" />
 </p>
 
 <div align="center">
@@ -17,32 +17,34 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/●_CREATIVE_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
-<img src="https://img.shields.io/badge/●_WEB_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
-<img src="https://img.shields.io/badge/●_3D_WEB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
-<img src="https://img.shields.io/badge/●_MUSIC-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/CREATIVE_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/WEB_DEVELOPER-D1D5DB?style=for-the-badge&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/3D_WEB-D1D5DB?style=for-the-badge&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/MUSIC-D1D5DB?style=for-the-badge&labelColor=1F2937" />
 
-<br>
+<br><br>
 
 <a href="https://portofolio-khresmupu.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/PORTFOLIO-D1D5DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
 <a href="https://github.com/khresmupu33">
-<img src="https://img.shields.io/badge/🐙_GITHUB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/GITHUB-D1D5DB?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
 <a href="mailto:khresmupu@gmail.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB" />
+<img src="https://img.shields.io/badge/EMAIL-D1D5DB?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
-<br>
+<br><br>
 
 `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
-# ⚪ `> whoami`
+---
+
+# ⚪ `> WHOAMI`
 
 <div align="center">
 
@@ -52,27 +54,29 @@
 
 <br>
 
-> ⚪ **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
+> **Creative Developer** yang menggabungkan teknologi, desain visual, 3D, dan musik untuk membangun pengalaman digital yang interaktif.
 
 Saya adalah mahasiswa **Universitas Kristen Maranatha** yang memiliki ketertarikan pada pengembangan website, integrasi animasi 3D, UI/UX, dan produksi musik digital.
 
 Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga harus mampu **menyampaikan pengalaman dan cerita**.
 
-<br>
-
 ---
 
 # ⚪ `> CURRENT_FOCUS`
 
-```diff
-+ WEB DEVELOPMENT
-+ FRONT-END DEVELOPMENT
-+ UI / UX DESIGN
-+ 3D WEB INTEGRATION
-+ BLENDER 3D
-+ PHP & SQL
-+ DIGITAL MUSIC PRODUCTION
-+ CREATIVE TECHNOLOGY
+```text
+╭────────────────────────────────────────────────╮
+│                                                │
+│  ▰  WEB DEVELOPMENT                           │
+│  ▰  FRONT-END DEVELOPMENT                     │
+│  ▰  UI / UX DESIGN                            │
+│  ▰  3D WEB INTEGRATION                        │
+│  ▰  BLENDER 3D                                │
+│  ▰  PHP & SQL                                 │
+│  ▰  DIGITAL MUSIC PRODUCTION                  │
+│  ▰  CREATIVE TECHNOLOGY                       │
+│                                                │
+╰────────────────────────────────────────────────╯
 ```
 
 ---
@@ -81,27 +85,31 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 <div align="center">
 
-## 🌐 WEB DEVELOPMENT
+## WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,jquery,php,mysql&theme=dark" />
-
-<br><br>
-
-## 🎨 DESIGN & 3D
-
-<img src="https://skillicons.dev/icons?i=blender,figma&theme=dark" />
-
-<br><br>
-
-## ⚙️ TOOLS & DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-D1D5DB?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/CSS3-D1D5DB?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/JavaScript-D1D5DB?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-D1D5DB?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/jQuery-D1D5DB?style=for-the-badge&logo=jquery&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/PHP-D1D5DB?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/MySQL-D1D5DB?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=1F2937" />
 
 <br><br>
 
-`⚪ HTML` `⚪ CSS` `⚪ JAVASCRIPT` `⚪ PHP` `⚪ MYSQL`
-`⚪ TAILWIND` `⚪ JQUERY` `⚪ BLENDER` `⚪ FIGMA`
-`⚪ GIT` `⚪ GITHUB` `⚪ VSCODE` `⚪ NETLIFY`
+## DESIGN & 3D
+
+<img src="https://img.shields.io/badge/Blender-D1D5DB?style=for-the-badge&logo=blender&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Figma-D1D5DB?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=1F2937" />
+
+<br><br>
+
+## TOOLS & DEVELOPMENT
+
+<img src="https://img.shields.io/badge/Git-D1D5DB?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/GitHub-D1D5DB?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/VS_Code-D1D5DB?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Netlify-D1D5DB?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1F2937" />
 
 </div>
 
@@ -109,14 +117,14 @@ Saya percaya bahwa sebuah website tidak hanya harus **berfungsi**, tetapi juga h
 
 # ⚪ `> SKILL_MATRIX`
 
-| ⚪ Skill | Level | Focus |
+| Skill | Level | Focus |
 | :--- | :---: | :--- |
-| 🌐 **Front-End Development** | `80%` | HTML · CSS · JavaScript · Responsive Design |
-| 🎨 **UI / UX Design** | `80%` | Interface · Layout · User Experience |
-| 🧊 **Blender & 3D Web** | `75%` | Modeling · Animation · Web Integration |
-| 🧠 **Problem Solving** | `70%` | Logic · System Flow · Optimization |
-| 🎵 **Music Production** | `65%` | Instrumental · Soundscape · Storytelling |
-| 🗄️ **PHP & SQL** | `50%` | Backend · Database · CRUD |
+| Front-End Development | `80%` | HTML · CSS · JavaScript · Responsive Design |
+| UI / UX Design | `80%` | Interface · Layout · User Experience |
+| Blender & 3D Web | `75%` | Modeling · Animation · Web Integration |
+| Problem Solving | `70%` | Logic · System Flow · Optimization |
+| Music Production | `65%` | Instrumental · Soundscape · Storytelling |
+| PHP & SQL | `50%` | Backend · Database · CRUD |
 
 <br>
 
@@ -135,14 +143,14 @@ PHP / SQL         ██████████░░░░░░░░░░  
 
 <div align="center">
 
-| ⚪ Platform | Purpose |
+| Platform | Purpose |
 | :--- | :--- |
-| 🌐 **Portfolio** | Web development & creative projects |
-| 🎵 **Music** | Original instrumental compositions |
-| 🏊 **SwimCloud** | Swimming achievements |
-| ♟️ **Chess.com** | Chess activity |
-| 🏆 **Olimpiadeku** | Competition & achievement records |
-| 📚 **Academia** | Research & academic documentation |
+| Portfolio | Web development & creative projects |
+| Music | Original instrumental compositions |
+| SwimCloud | Swimming achievements |
+| Chess.com | Chess activity |
+| Olimpiadeku | Competition & achievement records |
+| Academia | Research & academic documentation |
 
 </div>
 
@@ -155,15 +163,15 @@ PHP / SQL         ██████████░░░░░░░░░░  
 ```text
 ╭────────────────────────────────────────────────╮
 │                                                │
-│  ⚪ WEB APPLICATIONS                           │
+│  ▰  WEB APPLICATIONS                          │
 │                                                │
-│  ⚪ INTERACTIVE DIGITAL EXPERIENCES            │
+│  ▰  INTERACTIVE DIGITAL EXPERIENCES            │
 │                                                │
-│  ⚪ 3D WEB LEARNING MEDIA                      │
+│  ▰  3D WEB LEARNING MEDIA                     │
 │                                                │
-│  ⚪ FINANCIAL TECHNOLOGY FOR UMKM              │
+│  ▰  FINANCIAL TECHNOLOGY FOR UMKM              │
 │                                                │
-│  ⚪ ORIGINAL INSTRUMENTAL MUSIC                │
+│  ▰  ORIGINAL INSTRUMENTAL MUSIC                │
 │                                                │
 ╰────────────────────────────────────────────────╯
 ```
@@ -183,24 +191,24 @@ PHP / SQL         ██████████░░░░░░░░░░  
 <br>
 
 <a href="https://portofolio-khresmupu.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-D1D5DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
 <a href="mailto:khresmupu@gmail.com">
-<img src="https://img.shields.io/badge/✉️_CONTACT_ME-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
+<img src="https://img.shields.io/badge/CONTACT_ME-D1D5DB?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
 <a href="https://github.com/khresmupu33">
-<img src="https://img.shields.io/badge/🐙_GITHUB-D1D5DB?style=for-the-badge&labelColor=1F2937&logoColor=D1D5DB"/>
+<img src="https://img.shields.io/badge/GITHUB-D1D5DB?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1F2937" />
 </a>
 
 <br><br>
 
-`⚪ SYSTEM STATUS: ONLINE`
+`SYSTEM STATUS: ONLINE`
 
-`⚪ CREATIVITY: ACTIVE`
+`CREATIVITY: ACTIVE`
 
-`⚪ BUILDING: CONTINUOUS`
+`BUILDING: CONTINUOUS`
 
 <br>
 
@@ -209,6 +217,5 @@ PHP / SQL         ██████████░░░░░░░░░░  
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9CA3AF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7280&height=120&section=footer" width="100%" />
 </p>
-
