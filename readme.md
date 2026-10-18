@@ -185,7 +185,7 @@ PHP / SQL         ██████████░░░░░░░░░░  
 
 
 <a href="https://github.com/khresmupu33">
-  <img src="https://ghchart.rshah.org/6B7280/khresmupu33" width="100%" alt="Khresmupu GitHub Contribution Grid" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khresmupu33&theme=github_dark" width="100%" alt="Khresmupu GitHub Contribution Grid" />
 </a>
 
 </div>
