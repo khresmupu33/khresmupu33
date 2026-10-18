@@ -2,6 +2,14 @@
 
 <a href="https://github.com/khresmupu33">
   <img
+    src="https://gitcolors.vercel.app/api/svg?username=khresmupu33&color=ffffff&theme=dark&mode=solid&emptyColor=filled&animate=false"
+    width="100%"
+    alt="Khresmupu GitHub Contribution Grid"
+  />
+</a>
+
+<a href="https://github.com/khresmupu33">
+  <img
     src="https://ghchart.rshah.org/FFFFFF/khresmupu33"
     width="100%"
     alt="Khresmupu GitHub Contribution Grid"
