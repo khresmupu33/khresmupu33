@@ -1,14 +1,3 @@
-
-<a href="https://github.com/khresmupu33">
-  <img
-    src="https://gitcolors.vercel.app/api/svg?username=khresmupu33&color=FFFFFF&theme=dark&mode=levels&emptyColor=filled&animate=false"
-    width="100%"
-    alt="Khresmupu GitHub Contribution Grid"
-  />
-</a>
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7280&height=120&section=header&fontColor=F3F4F6" width="100%" />
 </p>
@@ -192,12 +181,13 @@ PHP / SQL         ██████████░░░░░░░░░░  
 # ⚪ `> GITHUB_CONTRIBUTIONS`
 
 <div align="center">
-
 <a href="https://github.com/khresmupu33">
-  <img src="https://ghchart.rshah.org/FFFFFF/khresmupu33" width="100%" alt="Khresmupu GitHub Contribution Grid" />
+  <img
+    src="https://gitcolors.vercel.app/api/svg?username=khresmupu33&color=FFFFFF&theme=dark&mode=levels&emptyColor=filled&animate=false"
+    width="100%"
+    alt="Khresmupu GitHub Contribution Grid"
+  />
 </a>
-
-
 </div>
 
 ---
