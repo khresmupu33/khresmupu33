@@ -1,12 +1,13 @@
 
+
 <a href="https://github.com/khresmupu33">
   <img
     src="https://ghchart.rshah.org/FFFFFF/khresmupu33"
     width="100%"
     alt="Khresmupu GitHub Contribution Grid"
-    style="filter: grayscale(1) brightness(1.8) contrast(1.2);"
   />
 </a>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7280&height=120&section=header&fontColor=F3F4F6" width="100%" />
