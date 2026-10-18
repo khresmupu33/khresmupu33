@@ -1,4 +1,6 @@
-
+<a href="https://github.com/khresmupu33">
+  <img src="https://ghchart.rshah.org/6B7280/khresmupu33" width="100%" alt="Khresmupu GitHub Contribution Grid" style="filter: invert(1) hue-rotate(180deg);" />
+</a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B7280&height=120&section=header&fontColor=F3F4F6" width="100%" />
 </p>
