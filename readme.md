@@ -183,9 +183,14 @@ PHP / SQL         ██████████░░░░░░░░░░  
 
 <div align="center">
 
+<a href="https://github.com/khresmupu33">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khresmupu33&bg_color=0D1117&color=6E7681&line=E6EDF3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Khresmupu GitHub Activity Graph" />
+</a>
+
+<br><br>
 
 <a href="https://github.com/khresmupu33">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khresmupu33&theme=github_dark" width="100%" alt="Khresmupu GitHub Contribution Grid" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khresmupu33&theme=dark" alt="Khresmupu GitHub Contribution Grid" width="100%" />
 </a>
 
 </div>
