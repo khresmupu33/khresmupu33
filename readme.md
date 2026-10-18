@@ -184,8 +184,9 @@ PHP / SQL         ██████████░░░░░░░░░░  
 <div align="center">
 
 <a href="https://github.com/khresmupu33">
-  <img src="https://ghchart.rshah.org/D1D5DB/khresmupu33" width="100%" alt="Khresmupu GitHub Contribution Grid" />
+  <img src="https://ghchart.rshah.org/FFFFFF/khresmupu33" width="100%" alt="Khresmupu GitHub Contribution Grid" />
 </a>
+
 
 </div>
 
