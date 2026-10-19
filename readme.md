@@ -180,15 +180,18 @@ PHP / SQL         ██████████░░░░░░░░░░  
 ---
 # ⚪ `> GITHUB_CONTRIBUTIONS`
 
+
 <div align="center">
-<a href="https://github.com/khresmupu33">
-  <img
-    src="https://gitcolors.vercel.app/api/svg?username=khresmupu33&color=FFFFFF&theme=dark&mode=levels&emptyColor=filled&animate=false"
-    width="100%"
-    alt="Khresmupu GitHub Contribution Grid"
-  />
-</a>
+  <a href="https://github.com/khresmupu33">
+    <img
+      src="https://gitcolors.vercel.app/api/svg?username=khresmupu33&color=FFFFFF&theme=dark&mode=levels&emptyColor=filled&animate=false&v=2"
+      width="100%"
+      alt="Khresmupu GitHub Contribution Grid"
+    />
+  </a>
 </div>
+
+
 
 ---
 # ⚪ `> LET'S_CONNECT`
